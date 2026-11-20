@@ -1,0 +1,310 @@
+{
+  "store": "Jackie's Outlets",
+  "defaults": {
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "black-chain-print-belted-shirt-dress",
+      "name": "Chain Print Belted Shirt Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black shirt dress covered in a gold chain and tassel print, finished with burgundy bands at the cuffs and hem. It buttons all the way down, has a notched collar and three-quarter sleeves, and comes with a matching buckle belt to cinch the waist. Falls just below the knee. Smart enough for the office, polished enough for church.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "3/4 Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Midi",
+        "Occasion": "Work/Office",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "black-ruched-long-sleeve-maxi-dress",
+      "name": "Ruched Long Sleeve Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A sleek black maxi with a round neck and long sleeves. Ruching across the front shapes the waist and hips, and the fitted skirt runs down to the ankle. Easy to dress up with heels and gold jewellery for dinner, or keep simple for an evening out.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Maxi",
+        "Fit": "Bodycon",
+        "Occasion": "Date Night",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "citrus-print-ruffle-hem-midi-dress",
+      "name": "Citrus Print Ruffle Hem Midi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A fresh white sleeveless dress printed with oranges, lemons and green leaves. A fitted bodice opens into a flowing skirt with an asymmetric ruffle hem that sways as you walk. Made for brunch, garden parties and sunny weekends.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Round Neck",
+        "Dress Length": "Midi",
+        "Fit": "A-Line",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "cream-mesh-twist-front-maxi-dress",
+      "name": "Mesh Twist Front Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Cream",
+      "description": "A soft cream mesh maxi with a draped cowl neck, long sheer sleeves and a twist detail at the waist. It hugs the body and flares gently into a mermaid hem. A glamorous pick for parties, dinners and special nights out.",
+      "details": {
+        "Pattern": "Solid",
+        "Material": "Mesh",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Cowl Neck",
+        "Dress Length": "Maxi",
+        "Fit": "Bodycon",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "green-leopard-wrap-midi-dress",
+      "name": "Green Leopard Print Wrap Midi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Green",
+      "description": "A bold green leopard print wrap dress with a flattering V-neck and fluttery elbow-length sleeves. The wrap shape defines the waist and the skirt falls to a graceful midi length. A statement dress that still feels easy to wear.",
+      "details": {
+        "Pattern": "Leopard Print",
+        "Sleeve Length": "Elbow Sleeve",
+        "Sleeve Style": "Flutter Sleeve",
+        "Neckline": "V-Neck",
+        "Dress Length": "Midi",
+        "Fit": "Wrap",
+        "Occasion": "Brunch",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "mesh-tiger-print-bodycon-midi-dress",
+      "name": "Mesh Tiger Print Bodycon Midi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy mesh bodycon dress with a brown tiger stripe print. Short sheer flutter sleeves and a round neck keep it light, while the fitted shape and midi length hug your curves. Great for parties and date nights.",
+      "details": {
+        "Pattern": "Animal Print",
+        "Material": "Mesh",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Flutter Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Midi",
+        "Fit": "Bodycon",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "olive-zebra-belted-wrap-dress",
+      "name": "Olive Zebra Print Belted Wrap Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Olive",
+      "description": "An olive and cream zebra print dress with a collar, elbow-length cuffed sleeves and a wrap front with a front slit. The matching buckle belt pulls in the waist for a sharp, put-together look. Works for the office and weekend outings alike.",
+      "details": {
+        "Pattern": "Zebra Print",
+        "Sleeve Length": "Elbow Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Midi",
+        "Fit": "Wrap",
+        "Occasion": "Work/Office",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "pink-rose-floral-mermaid-maxi-dress",
+      "name": "Pink Rose Floral Mermaid Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Pink",
+      "description": "A pink maxi dress covered in a red rose print. It has a sweetheart neckline with ruching at the bust, flutter sleeves, a smocked back for a comfortable fit, and a figure-hugging mermaid skirt. Perfect for weddings, birthdays and celebrations.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Flutter Sleeve",
+        "Neckline": "Sweetheart",
+        "Dress Length": "Maxi",
+        "Fit": "Fitted",
+        "Occasion": "Party",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "polka-dot-pleated-shirt-dress",
+      "name": "Polka Dot Pleated Shirt Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Off-White",
+      "description": "A classic off-white shirt dress with brown polka dots. It has a collar, a button front, long sleeves with buttoned cuffs, and a pleated skirt that falls past the knee. Timeless and modest, made for church, work and Sunday lunches.",
+      "details": {
+        "Pattern": "Polka Dot",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Midi",
+        "Fit": "A-Line",
+        "Occasion": "Church",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "rainbow-tie-dye-v-neck-maxi-dress",
+      "name": "Rainbow Tie-Dye V-Neck Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A vibrant tie-dye maxi in red, blue, yellow and pink. It has a deep V-neck, long sleeves and a body-hugging fit that runs all the way to the floor. Bright, bold and made to turn heads.",
+      "details": {
+        "Pattern": "Tie-Dye",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "V-Neck",
+        "Dress Length": "Maxi",
+        "Fit": "Bodycon",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "sage-eyelet-puff-sleeve-ruffle-dress",
+      "name": "Sage Eyelet Puff Sleeve Ruffle Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Sage",
+      "description": "A sage green dress in textured eyelet fabric. It has puff sleeves, a wide scoop neckline with a tie at the front, a smocked back for a comfortable fit, and a high-low ruffle hem. Soft and feminine, great for brunch dates and daytime events.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Scoop Neck",
+        "Dress Length": "Midi",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "yellow-floral-one-shoulder-cutout-maxi",
+      "name": "Yellow Floral One Shoulder Cutout Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "colour": "Yellow",
+      "description": "A sunny yellow floral dress with a one-shoulder neckline and gathered draping that leads to a ring cutout at the waist. Light and flowy, made for vacations, beach days and summer parties.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "One Shoulder",
+        "Dress Length": "Maxi",
+        "Occasion": "Vacation",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "burgundy-plaid-flare-trousers",
+      "name": "Burgundy Plaid Flare Trousers",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Burgundy",
+      "description": "High-waisted burgundy trousers with a mustard plaid check. Fitted through the hips and thighs, they flare out from the knee for a retro look that lengthens the legs. Has a zip fly, button closure and belt loops. Pair them with a tucked-in blouse for work or a crop top for the weekend.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Leg Style": "Flared",
+        "Waist Rise": "High Rise",
+        "Occasion": "Work/Office",
+        "Style": "Retro"
+      }
+    },
+    {
+      "key": "camel-pleated-wide-leg-trousers",
+      "name": "Camel Pleated Wide Leg Trousers",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Camel",
+      "description": "Camel wide-leg trousers with a high waist, front pleats and pressed creases down each leg. They have belt loops and fall in a long, clean line that looks polished at the office and relaxed on the weekend.",
+      "details": {
+        "Pattern": "Solid",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Work/Office",
+        "Style": "Quiet Luxury"
+      }
+    },
+    {
+      "key": "grey-tweed-wide-leg-trousers",
+      "name": "Grey Tweed Wide Leg Trousers",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Grey",
+      "description": "Grey tweed-look trousers with a high waist, front pleats and a straight wide leg with pressed creases. They have belt loops and back welt pockets. A smart staple that goes with any shirt, blazer or knit.",
+      "details": {
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Work/Office",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "mustard-pleated-wide-leg-trousers",
+      "name": "Mustard Pleated Wide Leg Trousers",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Mustard",
+      "description": "Mustard high-waisted trousers with front pleats, button tab details at the waist and pressed creases down a wide leg. A warm, bold colour that brightens up neutral tops and blazers.",
+      "details": {
+        "Pattern": "Solid",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "navy-pinstripe-wide-leg-pants",
+      "name": "Navy Striped Wide Leg Pants",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Navy",
+      "description": "Navy wide-leg pants with bold white vertical stripes that lengthen the legs. A high waist and a loose, flowing fit keep them comfortable all day. Dress them up with a blouse or keep it casual with a simple tee.",
+      "details": {
+        "Pattern": "Striped",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "navy-windowpane-wide-leg-trousers",
+      "name": "Navy Windowpane Check Wide Leg Trousers",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "100.00",
+      "colour": "Navy",
+      "description": "Navy wide-leg trousers with a white windowpane check. They have a high waist, front pleats, belt loops and back welt pockets, with a relaxed wide leg that moves well. A sharp choice for the office and smart events.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Work/Office",
+        "Style": "Classic"
+      }
+    }
+  ]
+}
