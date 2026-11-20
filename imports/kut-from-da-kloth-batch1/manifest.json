@@ -1,0 +1,310 @@
+{
+  "store": "KUT FROM DA KLOTH",
+  "defaults": {
+    "sizes": [],
+    "stock": 6,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "pink-cherry-blossom-print-shirt",
+      "name": "Pink Cherry Blossom Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Pink",
+      "description": "A soft pink short-sleeve shirt with a cherry blossom print in deeper pink. It has a classic collar, contrast black buttons and a curved hem that looks good tucked in or worn loose. Great for brunch, dates and weekend outings.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "black-embroidered-patch-polo",
+      "name": "Black Embroidered Patch Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black polo with a cream tipped collar and striped cuffs, finished with embroidered floral patches on the chest and lower front. A stand-out polo that pairs well with white or beige trousers.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "cream-striped-tipped-polo",
+      "name": "Cream Striped Tipped Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Cream",
+      "description": "A cream textured polo with thin brown vertical stripes and brown tipping on the collar and cuffs, plus a small chest badge. Clean and classy for work, church or a relaxed day out.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "grey-striped-tipped-polo",
+      "name": "Grey Striped Tipped Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey textured polo with fine vertical stripes, black and white tipping on the collar and cuffs, a two-button placket and a small chest badge. A smart everyday polo that goes with jeans, chinos or shorts.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "tan-marble-print-polo",
+      "name": "Tan Marble Print Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "A white polo with a tan marble print, finished with an olive collar, olive cuffs and a four-button placket. Easy to style with black or khaki trousers for a sharp casual look.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "gain-scripture-print-tee",
+      "name": "GAIN Scripture Print T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white crew-neck T-shirt with a brushed olive and black print and a bold GAIN graphic on the chest with Isaiah 41:10 written below it. Faith-inspired and easy to wear every day.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "white-rose-print-shirt",
+      "name": "White Rose Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white short-sleeve shirt printed with dark brown roses and leaves. It has a classic collar and button front. Pair it with black trousers or jeans for a cool, put-together look.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "pink-tree-print-shirt",
+      "name": "Pink Tree Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white short-sleeve shirt with a watercolour print of pink and green trees around the hem and sleeves, a chest pocket and a button front. A statement shirt for outings, vacations and parties.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "black-cartoon-print-polo",
+      "name": "Black Cartoon Print Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black polo with a playful cartoon print on the chest and lower front. Classic collar, two-button placket and side slits at the hem. Fun and easy for casual days.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "lilac-graphic-print-polo",
+      "name": "Lilac Graphic Print Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Lilac",
+      "description": "A lilac polo with a colourful graphic print on the chest. It has a classic collar and a three-button placket. A soft, standout colour for casual outings.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "rust-classic-polo",
+      "name": "Rust Classic Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Rust",
+      "description": "A plain rust polo with a clean collar and a short single-button placket. A simple, warm colour that pairs well with beige, black or denim.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "white-floral-embroidered-shirt",
+      "name": "White Floral Embroidered Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white textured short-sleeve shirt with a camp collar and tan floral embroidery all over. Light and breezy, great for weddings, outings and holidays.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "blue-pocket-polo",
+      "name": "Blue Pocket Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Blue",
+      "description": "A blue polo with a chest pocket, a two-button placket and ribbed cuffs. A wardrobe basic for work, school runs and weekends.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "black-pocket-polo",
+      "name": "Black Pocket Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black polo with a chest pocket, a three-button placket and ribbed cuffs. Goes with everything, from jeans to chinos.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "pastel-floral-print-shirt",
+      "name": "Pastel Floral Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A white short-sleeve shirt covered in big pastel flowers in pink, blue, yellow and grey, with contrast black buttons. Bright and fun for beach days, vacations and parties.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Vacation",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "navy-projekt-ribbed-tee",
+      "name": "Navy PROJEKT Ribbed T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy ribbed crew-neck T-shirt with a washed look and a tan PROJEKT print on the chest. A relaxed fit with dropped shoulders for an easy streetwear vibe.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "grey-projekt-ribbed-tee",
+      "name": "Grey PROJEKT Ribbed T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey ribbed crew-neck T-shirt with a washed look and a brown PROJEKT design on the chest. A relaxed fit with dropped shoulders, made for easy everyday wear.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "white-embroidered-border-shirt",
+      "name": "White Embroidered Border Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white textured short-sleeve shirt with rich brown embroidered borders down the front and around the sleeves. Smart and cultural, great for Fridays, church and celebrations.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
+    },
+    {
+      "key": "cream-embroidered-camp-collar-shirt",
+      "name": "Cream Embroidered Camp Collar Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Cream",
+      "description": "A cream textured shirt with a camp collar and black and gold embroidered panels down the front. A stylish, relaxed shirt for Fridays, outings and events.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
+    },
+    {
+      "key": "plum-pocket-polo",
+      "name": "Plum Pocket Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Plum",
+      "description": "A plum polo with a chest pocket, a two-button placket and ribbed cuffs. A rich colour that stands out from the usual basics.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    }
+  ]
+}
