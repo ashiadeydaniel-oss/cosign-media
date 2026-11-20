@@ -305,6 +305,111 @@
         "Occasion": "Casual",
         "Style": "Classic"
       }
+    },
+    {
+      "key": "blue-geometric-print-shirt",
+      "name": "Blue Geometric Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Blue",
+      "description": "A short-sleeve shirt in shades of blue with bold geometric bands of diamonds, stars and squares. It has a button-down collar and a curved hem. A standout shirt for Fridays, outings and events.",
+      "details": {
+        "Pattern": "Geometric",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
+    },
+    {
+      "key": "navy-red-plaid-western-shirt",
+      "name": "Navy and Red Plaid Long Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy long-sleeve shirt with a red and white check, two flap chest pockets with snap buttons and a snap-button front. Wear it buttoned up or open over a tee, with the sleeves rolled for a relaxed look.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "burgundy-zip-tipped-polo",
+      "name": "Burgundy Zip Neck Tipped Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Burgundy",
+      "description": "A burgundy polo with a half-zip neck and white tipping on the collar and cuffs. Sporty and smart at the same time, it pairs well with white, black or beige trousers.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "brown-projekt-ribbed-tee",
+      "name": "Brown PROJEKT Ribbed T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "A brown textured ribbed crew-neck T-shirt with a cream PROJEKT print on the chest. A relaxed fit with dropped shoulders that looks great with white or cream bottoms.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "burgundy-projekt-velvet-tee",
+      "name": "Burgundy PROJEKT Velvet-Look T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Burgundy",
+      "description": "A burgundy crew-neck T-shirt with a rich velvet-look ribbed texture and a gold PROJEKT print on the chest. Dressy enough for nights out, easy enough for everyday.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Party",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "green-projekt-ribbed-tee",
+      "name": "Green PROJEKT Ribbed T-Shirt",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Green",
+      "description": "A green ribbed crew-neck T-shirt with a dark brushed pattern and a gold PROJEKT print on the chest. A bold, relaxed tee that pairs well with black trousers.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "black-embroidered-camp-collar-shirt",
+      "name": "Black Embroidered Camp Collar Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black textured shirt with a camp collar and cream embroidered panels running down the front. Sharp and stylish for Fridays, outings and events, especially with white trousers.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
     }
   ]
 }
