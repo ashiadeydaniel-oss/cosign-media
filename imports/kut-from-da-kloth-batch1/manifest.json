@@ -410,6 +410,51 @@
         "Occasion": "Casual",
         "Style": "Afrocentric"
       }
+    },
+    {
+      "key": "grey-embroidered-camp-collar-shirt",
+      "name": "Grey Embroidered Camp Collar Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey textured shirt with a camp collar and black and gold embroidered panels running down the front. A smart, relaxed shirt for Fridays, outings and events.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
+    },
+    {
+      "key": "black-floral-embroidered-shirt",
+      "name": "Black Floral Embroidered Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black short-sleeve shirt with white floral embroidery all over. It has a classic collar and button front. Looks sharp with white trousers for outings, dinners and events.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "sage-floral-embroidered-shirt",
+      "name": "Sage Floral Embroidered Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Sage",
+      "description": "A sage green textured short-sleeve shirt with soft white floral embroidery. It has a classic collar and button front. Fresh and calm, great for weddings, church and weekend outings.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
     }
   ]
 }
