@@ -1,0 +1,17 @@
+{
+  "key": "beige-monogram-sneakers",
+  "name": "Beige Monogram Sneakers",
+  "category": "Shoes > Sneakers",
+  "price": "500.00",
+  "colour": "Beige",
+  "description": "Beige monogram canvas sneakers with smooth cream panels and a low platform sole. A classy everyday pair.",
+  "details": {
+    "Pattern": "Letter Print",
+    "Closure Type": "Lace-Up",
+    "Ankle Height": "Low Top",
+    "Heel Type": "Platform",
+    "Occasion": "Casual",
+    "Style": "Trendy",
+    "Gender": "Women"
+  }
+}

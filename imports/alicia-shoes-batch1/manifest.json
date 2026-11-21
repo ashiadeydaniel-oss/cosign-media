@@ -1,0 +1,308 @@
+{
+  "store_slug": "alicia-shoes",
+  "defaults": {
+    "sizes": [],
+    "stock": 6,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "black-gold-jeweled-box-clutch",
+      "name": "Black and Gold Jeweled Box Clutch",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Black",
+      "description": "A hard-shell box clutch covered in black and gold jewels set in a geometric pattern, topped with a bow clasp. A real statement piece for weddings, dinners and evening events.",
+      "details": {
+        "Pattern": "Beaded",
+        "Bag Size": "Small",
+        "Closure Type": "Clasp",
+        "Occasion": "Party",
+        "Style": "Glamorous",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "silver-crystal-box-clutch",
+      "name": "Silver Crystal Box Clutch",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Silver",
+      "description": "A sparkling silver box clutch lined with rows of square mirror crystals and finished with a jeweled clasp. Made to shine at weddings, parties and dinners.",
+      "details": {
+        "Pattern": "Beaded",
+        "Bag Size": "Small",
+        "Closure Type": "Clasp",
+        "Occasion": "Party",
+        "Style": "Glamorous",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "gold-amber-crystal-box-clutch",
+      "name": "Gold Amber Crystal Box Clutch",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Gold",
+      "description": "A gold box clutch set with large amber crystals and framed in rhinestones, with a jeweled clasp on top. A warm, glamorous finish for any evening outfit.",
+      "details": {
+        "Pattern": "Beaded",
+        "Bag Size": "Small",
+        "Closure Type": "Clasp",
+        "Occasion": "Party",
+        "Style": "Glamorous",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "gold-rhinestone-pearl-clasp-clutch",
+      "name": "Gold Rhinestone Pearl Clasp Clutch",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Gold",
+      "description": "A soft-shaped gold clutch covered in rhinestones with a pearl kiss-lock clasp. Elegant and easy to carry for weddings, engagements and special nights.",
+      "details": {
+        "Pattern": "Beaded",
+        "Bag Size": "Small",
+        "Closure Type": "Clasp",
+        "Occasion": "Wedding",
+        "Style": "Elegant",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "silver-teardrop-crystal-clutch",
+      "name": "Silver Teardrop Crystal Clutch",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Silver",
+      "description": "A silver clutch covered in teardrop and round crystals with a pavé rhinestone frame. A dazzling piece for brides, bridesmaids and party nights.",
+      "details": {
+        "Pattern": "Beaded",
+        "Bag Size": "Small",
+        "Closure Type": "Clasp",
+        "Occasion": "Wedding",
+        "Style": "Glamorous",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "baby-blue-top-handle-satchel",
+      "name": "Baby Blue Top Handle Satchel",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Baby Blue",
+      "description": "A structured baby blue satchel with a top handle and a flap front finished with a gold-tone emblem. Neat, polished and easy to carry to work, church or brunch.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Occasion": "Work/Office",
+        "Style": "Elegant",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "cream-gold-buckle-mini-tote",
+      "name": "Cream Gold Buckle Mini Tote",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Cream",
+      "description": "A cream mini tote with rounded top handles and a bold gold buckle across the front. Clean and classy for everyday outings.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Mini",
+        "Strap Type": "Top Handle",
+        "Closure Type": "Buckle",
+        "Occasion": "Everyday",
+        "Style": "Quiet Luxury",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "black-hexagon-ruched-handle-bag",
+      "name": "Black Hexagon Ruched Handle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Black",
+      "description": "A black hexagon-shaped handbag with a soft ruched handle. Modern and fun, it fits your phone, keys and lipstick for nights out.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Occasion": "Date Night",
+        "Style": "Trendy",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "black-twin-lock-mini-tote",
+      "name": "Black Twin Lock Mini Tote",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Black",
+      "description": "A structured black mini tote with a top handle and two gold-tone turn-lock details on the front. Smart and timeless for work and dinners.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Mini",
+        "Strap Type": "Top Handle",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "colourblock-stripe-top-handle-bag",
+      "name": "Colourblock Stripe Top Handle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Multicolor",
+      "description": "A structured top handle bag in bold stripes of cream, pink and deep purple with a brown handle and strap details. A bright statement bag for outings and events.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Closure Type": "Buckle",
+        "Occasion": "Everyday",
+        "Style": "Trendy",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "beige-flap-top-handle-bag",
+      "name": "Beige Flap Top Handle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Beige",
+      "description": "A structured beige top handle bag with a front flap, a gold-tone clasp and a hanging tag charm. Elegant and understated for work, church and events.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Closure Type": "Clasp",
+        "Occasion": "Work/Office",
+        "Style": "Quiet Luxury",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "black-pocket-top-handle-bag",
+      "name": "Black Pocket Top Handle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "500.00",
+      "colour": "Black",
+      "description": "A structured black top handle bag with a front pocket and gold-tone hardware. A smart, everyday bag that goes with everything.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "black-white-platform-sneakers",
+      "name": "Black Platform Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "Black",
+      "description": "Black lace-up sneakers with smooth and suede-look panels on a chunky white platform sole. Comfortable, sporty and easy to wear all day.",
+      "details": {
+        "Pattern": "Solid",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Platform",
+        "Occasion": "Casual",
+        "Style": "Sporty",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "strawberry-gingham-lace-sneakers",
+      "name": "Strawberry Gingham Lace Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "White",
+      "description": "White platform sneakers with embroidered strawberries and red gingham ribbon laces. Cute, fun and made to stand out.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Platform",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "pastel-colourblock-platform-sneakers",
+      "name": "Pastel Colourblock Platform Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "White",
+      "description": "White platform sneakers with soft pastel panels in yellow, pink and lilac. A sweet, easy pair for everyday outfits.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Platform",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "beige-butterfly-charm-sneakers",
+      "name": "Beige Butterfly Charm Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "Beige",
+      "description": "Beige and cream platform sneakers with soft suede-look panels, brown trim and a small butterfly charm on the laces. Chic and comfy for casual days.",
+      "details": {
+        "Pattern": "Solid",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Platform",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "brown-ribbon-lace-mesh-sneakers",
+      "name": "Brown Ribbon Lace Mesh Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "Brown",
+      "description": "Brown retro sneakers with breathable mesh panels, suede-look overlays and wide satin ribbon laces. A trendy, light pair for everyday wear.",
+      "details": {
+        "Pattern": "Solid",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Flat/No Heel",
+        "Material": "Mesh",
+        "Occasion": "Casual",
+        "Style": "Retro",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "tan-fleece-lined-retro-sneakers",
+      "name": "Tan Fleece Lined Retro Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "500.00",
+      "colour": "Tan",
+      "description": "Tan retro sneakers with cream stripes, a soft fleece lining and a gum-tone sole. Warm, cosy and easy to style.",
+      "details": {
+        "Pattern": "Solid",
+        "Closure Type": "Lace-Up",
+        "Ankle Height": "Low Top",
+        "Heel Type": "Flat/No Heel",
+        "Occasion": "Casual",
+        "Style": "Retro",
+        "Gender": "Women"
+      }
+    }
+  ]
+}
