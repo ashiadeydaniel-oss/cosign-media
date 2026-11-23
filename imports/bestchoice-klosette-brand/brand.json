@@ -1,0 +1,36 @@
+{
+  "store_slug": "bestchoice-klosette",
+  "brand": {
+    "brand_colour_primary": "#1F3A5F",
+    "brand_colour_secondary": "#F6F1EA",
+    "hero_layout": "split",
+    "hero_headline": "Everyday elegance, hand-picked.",
+    "hero_subtext": "Dresses, co-ord sets and handbags, chosen piece by piece for the woman who likes to look put together.",
+    "hero_cta_label": "Shop the edit",
+    "hero_cta_target": "shop",
+    "font_pairing": "boutique",
+    "button_style": "pill",
+    "card_corners": "round",
+    "card_surface": "flat",
+    "page_tone": "tinted",
+    "sections": ["collections", "story", "proof"],
+    "story_title": "A closet you'll actually reach for",
+    "story_body": "Bestchoice Klosette is a closet of pieces you'll actually reach for. Every dress, set and bag is chosen for its fit, its finish and how it feels to wear, so getting ready is the easy part.",
+    "story_points": ["Hand-picked, piece by piece", "Dresses, sets and handbags", "Buyer protection on every order", "Message us for styling help"],
+    "announcement_text": "New in: dresses, sets and bags. Shop the edit",
+    "announcement_target": "shop",
+    "seo_title": "Bestchoice Klosette | Dresses, Sets & Bags",
+    "seo_description": "Shop Bestchoice Klosette on CoSign: hand-picked dresses, co-ord sets and handbags. Pay securely, with buyer protection on every order."
+  },
+  "announcement_days": 14,
+  "collections": [
+    {"title": "New in", "kind": "newest"},
+    {"title": "Dresses", "kind": "category", "category": "Women's Clothing > Dresses"},
+    {"title": "Co-ord sets", "kind": "category", "category": "Women's Clothing > Co-ord Sets"},
+    {"title": "Handbags", "kind": "category", "category": "Bags & Luggage > Handbags"}
+  ],
+  "profile": {
+    "bio": "Hand-picked dresses, co-ord sets and handbags for the woman who likes to look put together. Message us for sizes and styling help."
+  },
+  "images": {"hero": "hero.jpg", "story": "story.jpg", "logo": "logo.png", "banner": "banner.jpg"}
+}
