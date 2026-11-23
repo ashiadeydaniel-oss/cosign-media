@@ -1,0 +1,289 @@
+{
+  "store_slug": "bestchoice-klosette",
+  "defaults": {
+    "sizes": [],
+    "stock": 6,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "acid-wash-denim-tiered-shirt-dress",
+      "name": "Acid Wash Denim Tiered Shirt Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Denim Blue",
+      "description": "A light acid-wash denim shirt dress with a collar, a button front and roll-tab short sleeves. A seamed waist drops into a flared, tiered ruffle hem above the knee. Easy to wear with sneakers or sandals for brunch and weekend outings.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Mini",
+        "Material": "Denim",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "sheer-floral-pom-pom-trim-midi-dress",
+      "name": "Sheer Floral Pom-Pom Trim Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Multicolor",
+      "description": "A soft floral print dress in light, sheer layers, with a high button neck, long full sleeves and tiny pom-pom trims along the seams. A fitted waist flows into a full skirt. Romantic and feminine for brunch, church and garden parties.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Long Sleeve",
+        "Sleeve Style": "Bishop Sleeve",
+        "Neckline": "Mock Neck",
+        "Dress Length": "Knee Length",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "white-watercolour-floral-skater-dress",
+      "name": "White Watercolour Floral Skater Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "White",
+      "description": "A white sleeveless skater dress washed with a watercolour print of pink, coral and red flowers. A fitted bodice and a full, swingy skirt make it a sweet pick for parties, dates and celebrations.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Scoop Neck",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Occasion": "Party",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "dark-denim-cami-maxi-dress",
+      "name": "Dark Denim Cami Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Navy",
+      "description": "A dark indigo denim maxi dress with thin straps, a square neckline and a fitted bodice that flares into a long A-line skirt. Clean, simple and easy to dress up or down.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Square Neck",
+        "Dress Length": "Maxi",
+        "Fit": "A-Line",
+        "Material": "Denim",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "denim-gold-button-pinafore-dress",
+      "name": "Denim Gold Button Pinafore Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Denim Blue",
+      "description": "A mid-blue denim pinafore dress with wide straps, a square neckline and a row of gold buttons all the way down the front. Wear it alone or layered over a tee or blouse.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Square Neck",
+        "Dress Length": "Midi",
+        "Fit": "A-Line",
+        "Material": "Denim",
+        "Occasion": "Casual",
+        "Style": "Classic"
+      }
+    },
+    {
+      "key": "grey-gingham-collar-polo-skirt-set",
+      "name": "Grey Gingham Collar Polo and Skirt Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "350.00",
+      "colour": "Grey",
+      "description": "A soft grey two-piece set: a short-sleeve polo top with a gingham collar and button placket, and a matching pull-on midi skirt with a gingham drawstring. Comfortable and put-together for errands, work and weekends.",
+      "details": {
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "ivory-knit-gold-button-skater-dress",
+      "name": "Ivory Knit Gold Button Skater Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Ivory",
+      "description": "An ivory textured knit dress with a mock neck, short sleeves and gold buttons on the shoulder. It fits through the body and flares into a full skirt. Elegant for church, brunch and special days.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Mock Neck",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Material": "Knit",
+        "Occasion": "Brunch",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "blue-lace-bishop-sleeve-tiered-dress",
+      "name": "Blue Lace Bishop Sleeve Tiered Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Powder Blue",
+      "description": "A light blue lace dress with a collar, a button front and sheer bishop sleeves. White floral lace covers the body, and the skirt ends in a tiered, scalloped hem. Beautiful for church, weddings and celebrations.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Long Sleeve",
+        "Sleeve Style": "Bishop Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Knee Length",
+        "Material": "Lace",
+        "Occasion": "Church",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "blue-embroidered-lace-puff-sleeve-dress",
+      "name": "Blue Embroidered Lace Puff Sleeve Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Powder Blue",
+      "description": "A light blue dress covered in white embroidered lace flowers, with a collar, a button front and sheer puff sleeves. A fitted waist and a full skirt finish the look. Lovely for church, birthdays and events.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Collared",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Material": "Lace",
+        "Occasion": "Church",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "red-pointelle-knit-midi-dress",
+      "name": "Red Pointelle Knit Midi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Red",
+      "description": "A bold red midi dress in an open pointelle knit, with a round neck and short sleeves. It hugs the body and flares gently into a midi skirt. A head-turning colour for dinners and date nights.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Midi",
+        "Fit": "A-Line",
+        "Material": "Knit",
+        "Occasion": "Date Night",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "red-baroque-print-bustier-sundress",
+      "name": "Red Baroque Print Bustier Sundress",
+      "category": "Women's Clothing > Dresses",
+      "price": "350.00",
+      "colour": "Red",
+      "description": "A white sundress with a bold red baroque tile print, a structured bustier top with a sweetheart neckline and a full skirt. Made for summer outings, vacations and parties.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Sweetheart",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Occasion": "Vacation",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "pink-shirt-and-shorts-set",
+      "name": "Pink Shirt and Shorts Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "350.00",
+      "colour": "Pink",
+      "description": "A pink two-piece set: a relaxed button-up shirt with elbow sleeves and a chest pocket, and matching shorts. Light and easy for weekends, vacations and hot days.",
+      "details": {
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "cobalt-blue-waistcoat-shorts-set",
+      "name": "Cobalt Blue Waistcoat and Shorts Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "350.00",
+      "colour": "Royal Blue",
+      "description": "A cobalt blue two-piece set: a fitted sleeveless waistcoat with a button front and flap pockets, and matching tailored shorts. A sharp, bold look for outings and events.",
+      "details": {
+        "Pattern": "Solid",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "cream-shirt-and-shorts-set",
+      "name": "Cream Shirt and Shorts Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "350.00",
+      "colour": "Cream",
+      "description": "A cream two-piece set: a relaxed button-up shirt with elbow sleeves and a chest pocket, and matching shorts. Light, neutral and easy to wear on warm days.",
+      "details": {
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "taupe-pebbled-leather-top-handle-bag",
+      "name": "Taupe Pebbled Top Handle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "350.00",
+      "colour": "Taupe",
+      "description": "A taupe pebbled top handle bag with a rounded handle, gold-tone hardware and a hoop buckle on the front, plus a small hanging tag. Roomy and polished for work and everyday.",
+      "details": {
+        "Pattern": "Solid",
+        "Bag Size": "Medium",
+        "Strap Type": "Top Handle",
+        "Closure Type": "Buckle",
+        "Occasion": "Work/Office",
+        "Style": "Quiet Luxury",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "sage-floral-jacquard-buckle-bag",
+      "name": "Sage Floral Jacquard Buckle Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "350.00",
+      "colour": "Sage",
+      "description": "A sage green saddle-shaped bag with a floral jacquard front, a bold blue buckle, gold-tone hardware and a top handle. A pretty, ladylike bag for outings and events.",
+      "details": {
+        "Pattern": "Floral",
+        "Bag Size": "Small",
+        "Strap Type": "Top Handle",
+        "Closure Type": "Buckle",
+        "Occasion": "Everyday",
+        "Style": "Elegant",
+        "Gender": "Women"
+      }
+    },
+    {
+      "key": "cream-ostrich-texture-mini-bag",
+      "name": "Cream Ostrich Texture Mini Bag",
+      "category": "Bags & Luggage > Handbags",
+      "price": "350.00",
+      "colour": "Cream",
+      "description": "A cream mini top handle bag in an ostrich-texture finish, with a shimmering flap and gold-tone hardware. A small, elegant bag for weddings and dinners.",
+      "details": {
+        "Pattern": "Animal Print",
+        "Bag Size": "Mini",
+        "Strap Type": "Top Handle",
+        "Occasion": "Party",
+        "Style": "Quiet Luxury",
+        "Gender": "Women"
+      }
+    }
+  ]
+}
