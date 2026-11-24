@@ -1,0 +1,342 @@
+{
+  "store_slug": "k-p-styles",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "white-jacquard-shawl-collar-tuxedo-blazer",
+      "name": "White Jacquard Shawl Collar Tuxedo Blazer",
+      "category": "Kids & Baby Fashion > Kids' Outerwear",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white tuxedo blazer in a subtle tonal jacquard, finished with a satin black shawl collar, black-trimmed pockets and a single button. A sharp, special-occasion piece for weddings, christenings and family photos.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Collarless",
+        "Occasion": "Wedding"
+      }
+    },
+    {
+      "key": "black-jacquard-shawl-collar-tuxedo-blazer",
+      "name": "Black Jacquard Shawl Collar Tuxedo Blazer",
+      "category": "Kids & Baby Fashion > Kids' Outerwear",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "A black tuxedo blazer in a rich tonal jacquard with a satin shawl collar and a single button. Dress it over a white shirt for weddings, dinners and big celebrations.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Collarless",
+        "Occasion": "Formal"
+      }
+    },
+    {
+      "key": "navy-double-breasted-peak-lapel-blazer",
+      "name": "Navy Double-Breasted Peak Lapel Blazer",
+      "category": "Kids & Baby Fashion > Kids' Outerwear",
+      "price": "200.00",
+      "colour": "Navy",
+      "description": "A smart navy blazer with peak lapels, a double-breasted button front and flap pockets. A grown-up tailored look for weddings, graduations and church.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Formal"
+      }
+    },
+    {
+      "key": "navy-elbow-patch-blazer-burgundy-trim",
+      "name": "Navy Blazer with Burgundy Trim",
+      "category": "Kids & Baby Fashion > Kids' Outerwear",
+      "price": "200.00",
+      "colour": "Navy",
+      "description": "A navy blazer with neat burgundy trim on the lapels, burgundy buttons and contrast elbow patches. Polished but playful for church, parties and special days.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Church"
+      }
+    },
+    {
+      "key": "burgundy-pearl-lace-peplum-jacket-tulle-skirt-set",
+      "name": "Burgundy Pearl Lace Jacket and Tulle Skirt Set",
+      "category": "Kids & Baby Fashion > Girls' Tops & Bottoms",
+      "price": "200.00",
+      "colour": "Burgundy",
+      "description": "A burgundy two-piece for girls: a fitted peplum jacket with lace panels and pearl button details, and a full, layered tulle skirt. Made for birthdays, Christmas and special occasions.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Material": "Tulle",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "ivory-tweed-trim-jacket-dress-set-camellia-brooch",
+      "name": "Ivory Tweed-Trim Jacket and Dress Set",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Ivory",
+      "description": "An elegant ivory set: a cropped jacket and a matching sleeveless dress, both edged in black and gold tweed trim, finished with a flower brooch. A classic, ladylike look for weddings and celebrations.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Dress Length": "Knee Length",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "pink-floral-tulle-ruffle-hem-party-dress",
+      "name": "Pink Floral Tulle Party Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Pink",
+      "description": "A soft pink party dress covered in raised floral tulle, with puff sleeves, a pearl-trimmed neckline and a ruffled tulle hem. Sweet and twirly for birthdays and celebrations.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Knee Length",
+        "Material": "Tulle",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "black-rainbow-stripe-hoodie-jogger-set",
+      "name": "Black Rainbow Stripe Hoodie and Jogger Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "A black hoodie and jogger set with bold green, yellow and red stripes down the sleeves and legs. Cosy and sporty for school runs, play and weekends.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Long Sleeve",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "beige-linen-shirt-tee-shorts-set",
+      "name": "Beige Linen-Look Shirt, Tee and Shorts Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Beige",
+      "description": "A three-piece set: a beige band-collar shirt, a white graphic tee and matching beige shorts. Wear the shirt open over the tee for an easy, put-together summer look.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Mandarin / Band Collar",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "beige-layered-tee-cargo-shorts-set",
+      "name": "Beige Layered Tee and Cargo Shorts Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Beige",
+      "description": "A beige layered-look tee with matching drawstring cargo shorts, styled with a cool chest bag. Relaxed and comfy for warm days and outings.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Leg Style": "Cargo",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "white-cap-patch-sweatshirt-blue-squiggle-pants-set",
+      "name": "White Cap Patch Sweatshirt and Blue Squiggle Pants Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white sweatshirt with a blue cap graphic and blue sleeve panels, paired with blue pants in a fun squiggle print. Bright, playful and easy to wear.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "olive-ribbed-zip-polo-pants-set",
+      "name": "Olive Ribbed Zip Polo and Pants Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Olive",
+      "description": "An olive two-piece in soft ribbed fabric: a short-sleeve polo with a zip neck and matching drawstring pants. Neat, comfortable and easy for outings.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Polo Collar",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "navy-ombre-pleated-dress-brooch-tie",
+      "name": "Navy Ombre Pleated Dress with Brooch",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Navy",
+      "description": "A navy dress with a collared top and a pleated skirt that fades from deep navy to soft lilac, finished with a scalloped waist and a sparkling brooch. Elegant for parties and church.",
+      "details": {
+        "Pattern": "Ombre",
+        "Sleeve Length": "Short Sleeve",
+        "Dress Length": "Midi",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "navy-plaid-tee-shorts-set-chain-detail",
+      "name": "Navy Plaid Tee and Shorts Set",
+      "category": "Kids & Baby Fashion > Girls' Tops & Bottoms",
+      "price": "200.00",
+      "colour": "Navy",
+      "description": "A navy plaid tee and matching shorts trimmed in bright pink, with a little chain detail at the neck and a pink drawstring. Cute and comfy for play and outings.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "camel-shimmer-pleated-blazer-dress",
+      "name": "Camel Shimmer Pleated Blazer Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Camel",
+      "description": "A shimmering camel dress with a blazer-style top, button details and a belted waist over a softly pleated skirt. A grown-up, glamorous look for parties and events.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Dress Length": "Midi",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "mustard-corduroy-side-stripe-joggers",
+      "name": "Mustard Corduroy Side Stripe Joggers",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Mustard",
+      "description": "Mustard corduroy joggers with a cream side stripe, an elastic drawstring waist and a small embroidered detail. Soft, warm and easy to pair with tees and polos.",
+      "details": {
+        "Pattern": "Striped",
+        "Material": "Corduroy",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "mustard-cream-corduroy-stripe-polo",
+      "name": "Mustard and Cream Corduroy Stripe Polo",
+      "category": "Kids & Baby Fashion > Boys' Shirts",
+      "price": "200.00",
+      "colour": "Mustard",
+      "description": "A mustard and cream corduroy polo with diagonal stripes across the front and a button placket. Pairs perfectly with the matching mustard joggers.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Polo Collar",
+        "Material": "Corduroy",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "peach-petal-hem-dress-satin-bow",
+      "name": "Peach Petal Hem Dress with Satin Bow",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Peach",
+      "description": "A peach sleeveless dress with a sculpted petal-ruffle hem and an oversized white satin bow at the shoulder. A show-stopping pick for birthdays and photoshoots.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Round Neck",
+        "Dress Length": "Above Knee",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "white-yellow-petal-hem-pearl-trim-dress",
+      "name": "White and Yellow Petal Hem Party Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white dress with sculpted puff sleeves, a gold brooch and a bright yellow petal-ruffle hem. Cheerful and eye-catching for parties and special days.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Above Knee",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "rainbow-tweed-belted-shirt-dress-flower-brooch",
+      "name": "Rainbow Tweed Belted Dress with Flower Brooch",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Multicolor",
+      "description": "A sleeveless rainbow tweed dress with a collar, gold buttons, a tie belt and a yellow flower brooch. Colourful and smart for parties and celebrations.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Sleeve Length": "Sleeveless",
+        "Dress Length": "Knee Length",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "ivory-rosette-lace-sequin-party-dress",
+      "name": "Ivory Rosette Lace Party Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Ivory",
+      "description": "An ivory party dress covered in 3D lace rosettes, with soft puff sleeves and a gentle sparkle. Perfect for flower girls, weddings and christenings.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Dress Length": "Knee Length",
+        "Material": "Lace",
+        "Occasion": "Wedding"
+      }
+    },
+    {
+      "key": "blush-shimmer-puff-sleeve-collar-dress",
+      "name": "Blush Shimmer Puff Sleeve Collar Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Blush",
+      "description": "A blush pink shimmer dress with a rounded collar, sheer puff sleeves and sweet flower and pearl details. Soft, pretty and made for celebrations.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Dress Length": "Knee Length",
+        "Occasion": "Party"
+      }
+    },
+    {
+      "key": "leopard-print-sequin-puff-sleeve-dress",
+      "name": "Leopard Print Puff Sleeve Dress",
+      "category": "Kids & Baby Fashion > Girls' Dresses",
+      "price": "200.00",
+      "colour": "Brown",
+      "description": "A leopard print dress with sparkly sequin detail, lace puff sleeves and a little satin bow at the neck. Fun and fashionable for parties and outings.",
+      "details": {
+        "Pattern": "Leopard Print",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Dress Length": "Knee Length",
+        "Occasion": "Party"
+      }
+    }
+  ]
+}
