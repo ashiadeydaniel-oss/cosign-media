@@ -337,6 +337,77 @@
         "Dress Length": "Knee Length",
         "Occasion": "Party"
       }
+    },
+    {
+      "key": "beige-check-panel-zip-tracksuit",
+      "name": "Beige Check Panel Zip Tracksuit",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Beige",
+      "description": "A cream zip-up track jacket and joggers with beige check panels on the front and legs and lettered tape down the sleeve and leg. Smart and sporty for outings and travel days.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Sleeve Length": "Long Sleeve",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "white-monogram-sleeve-sweatshirt-jogger-set",
+      "name": "White Monogram Sleeve Sweatshirt and Jogger Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white crew-neck sweatshirt with black and white monogram sleeves, paired with black joggers with matching monogram side panels. A stylish, comfy set for everyday wear.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Long Sleeve",
+        "Neckline": "Round Neck",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "cream-tiger-embroidered-hoodie-jogger-set",
+      "name": "Cream Tiger Hoodie and Jogger Set",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Cream",
+      "description": "A cream hoodie with a bold, colourful tiger graphic and a contrast black hood lining, paired with black joggers with a matching tiger on the leg. Cosy and eye-catching.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Long Sleeve",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "cream-monogram-panel-zip-hoodie-tracksuit",
+      "name": "Cream Monogram Panel Zip Hoodie Tracksuit",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Cream",
+      "description": "A cream zip-up hoodie with a brown monogram front panel and black hood lining, paired with black joggers with monogram side stripes. A smart, cosy tracksuit for outings.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Long Sleeve",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
+    },
+    {
+      "key": "black-red-tiger-zip-track-suit",
+      "name": "Black and Red Tiger Zip Tracksuit",
+      "category": "Kids & Baby Fashion > Boys' Trousers & Shorts",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "A black zip-up track jacket with a tiger graphic across the chest and bold red sleeve stripes, paired with matching joggers. Sporty, bold and easy to wear.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Long Sleeve",
+        "Leg Style": "Jogger",
+        "Occasion": "Casual"
+      }
     }
   ]
 }
