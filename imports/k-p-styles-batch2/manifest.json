@@ -1,0 +1,452 @@
+{
+  "store_slug": "k-p-styles",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "sky-blue-rhinestone-tee-wide-leg-pants-set",
+      "name": "Sky Blue Rhinestone Tee and Wide-Leg Pants Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "200.00",
+      "colour": "Sky Blue",
+      "description": "A sky blue two-piece: a relaxed tee with sparkling rhinestone sleeve panels and matching wide-leg pants with rhinestone side stripes and an elastic waist. Comfortable, put-together and a little bit glam.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Leg Style": "Wide Leg",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "white-heart-print-flutter-sleeve-midi-dress",
+      "name": "White Heart Print Flutter Sleeve Midi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white midi dress scattered with little black hearts, with a deep V collar, fluttery sleeves and a button front. Flattering and flowy for brunch, church and date days.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Flutter Sleeve",
+        "Neckline": "V-Neck",
+        "Dress Length": "Midi",
+        "Fit": "A-Line",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "white-chain-trim-tee-wide-leg-pants-set",
+      "name": "White Chain-Trim Tee and Wide-Leg Pants Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A crisp white two-piece: a soft tee with a chain-trim pocket and matching straight wide-leg pants with chain details at the pockets. Clean, easy and effortlessly chic.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Leg Style": "Wide Leg",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "black-lace-trim-gold-button-puff-sleeve-blouse",
+      "name": "Black Lace-Trim Gold Button Puff Sleeve Blouse",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "A black peplum blouse with puff sleeves, scalloped lace trim at the neckline and cuffs, and statement gold flower buttons. Pairs beautifully with trousers or a pencil skirt.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "V-Neck",
+        "Occasion": "Work/Office",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "ivory-satin-puff-sleeve-rose-tie-waist-dress",
+      "name": "Ivory Satin Puff Sleeve Wrap Dress with Rose",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Ivory",
+      "description": "A glossy ivory satin dress with puff sleeves, a wrap tie waist and a satin rosette at the shoulder. Soft, luxe and made for weddings, dinners and special occasions.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Midi",
+        "Fit": "Wrap",
+        "Material": "Satin",
+        "Occasion": "Wedding",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "denim-butterfly-embellished-shirt-dress",
+      "name": "Denim Butterfly Embellished Shirt Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Denim Blue",
+      "description": "A mid-blue denim shirt dress with a button front, a classic collar and sparkling butterfly embellishments across the shoulders. Fitted, fun and easy to style.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Dress Length": "Above Knee",
+        "Fit": "Bodycon",
+        "Material": "Denim",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "white-front-zip-puff-sleeve-pleated-dress",
+      "name": "White Front-Zip Puff Sleeve Pleated Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white dress with a contrast black front zip, puff sleeves and a pleated skirt that flares from the waist. Sharp and modern for work, church and events.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Occasion": "Work/Office",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "brown-leaf-print-lace-trim-drop-waist-dress",
+      "name": "Brown Leaf Print Lace-Trim Drop Waist Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Brown",
+      "description": "A flowy brown and white leaf print dress with full sleeves, a drop waist and delicate lace trim. Relaxed and breezy for outings and weekends.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "3/4 Sleeve",
+        "Neckline": "V-Neck",
+        "Dress Length": "Knee Length",
+        "Occasion": "Casual",
+        "Style": "Bohemian"
+      }
+    },
+    {
+      "key": "white-eyelet-puff-sleeve-ruffle-hem-shirt-dress",
+      "name": "White Eyelet Puff Sleeve Ruffle Hem Shirt Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white eyelet shirt dress with a collar, a button front, sheer puff sleeves and a playful ruffle hem. Fresh and pretty for brunch and church.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Collar Type": "Classic Collar",
+        "Dress Length": "Above Knee",
+        "Fit": "Fitted",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "pink-halter-bubble-hem-dress-rosette",
+      "name": "Pink Halter Bubble Hem Dress with Rosette",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Pink",
+      "description": "A bright pink halter mini dress with a bubble hem and a big fabric rosette at the chest. Fun and flirty for parties, birthdays and nights out.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Halter Neck",
+        "Dress Length": "Mini",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "white-crystal-neckline-balloon-sleeve-jacket",
+      "name": "White Crystal Neckline Balloon Sleeve Jacket",
+      "category": "Women's Clothing > Blazers & Jackets",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white collarless jacket with full balloon sleeves, a crystal-embellished neckline and jewelled buttons. Throw it over a dress or trousers for an instant statement.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Sleeve Style": "Balloon Sleeve",
+        "Neckline": "Round Neck",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "pink-rose-print-shirt-tiered-skirt-set",
+      "name": "Pink Rose Print Shirt and Tiered Skirt Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "200.00",
+      "colour": "Pink",
+      "description": "A pink rose print two-piece: a cropped puff sleeve shirt and a matching tiered mini skirt. Sweet, summery and perfect for brunch and outings.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Puff Sleeve",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "red-white-shawl-collar-blazer-dress",
+      "name": "Red Shawl Collar Blazer Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Red",
+      "description": "A bold red blazer dress with a contrast white shawl collar and a double-breasted gold button front. Polished and powerful for work, events and church.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Long Sleeve",
+        "Dress Length": "Above Knee",
+        "Occasion": "Work/Office",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "olive-pleated-side-tie-maxi-dress",
+      "name": "Olive Pleated Side-Tie Maxi Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Olive",
+      "description": "An olive maxi dress with soft pleats, a V neckline, loose sleeves and adjustable side ties at the waist. Easy, flowing and comfortable all day.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve Style": "Batwing",
+        "Neckline": "V-Neck",
+        "Dress Length": "Maxi",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "white-double-breasted-gold-button-skater-dress",
+      "name": "White Double-Breasted Gold Button Skater Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white sleeveless dress with a double-breasted front, gold buttons and a full pleated skater skirt. Crisp, chic and party-ready.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "V-Neck",
+        "Dress Length": "Above Knee",
+        "Fit": "A-Line",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "pink-crystal-neckline-skater-dress",
+      "name": "Pink Crystal Neckline Skater Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Baby Pink",
+      "description": "A baby pink sleeveless dress with a crystal-embellished square neckline, a fitted bodice and a flared skirt. Sweet and sparkly for birthdays and celebrations.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Square Neck",
+        "Dress Length": "Above Knee",
+        "Fit": "A-Line",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "red-crystal-neckline-tiered-ruffle-hem-dress",
+      "name": "Red Crystal Neckline Tiered Ruffle Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Red",
+      "description": "A bold red sleeveless dress with a crystal-trimmed neckline, a fitted body and layered ruffle tiers at the hem. A head-turner for parties and nights out.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Scoop Neck",
+        "Dress Length": "Above Knee",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "sky-blue-crystal-collar-a-line-dress",
+      "name": "Sky Blue Crystal Collar A-Line Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Sky Blue",
+      "description": "A sky blue A-line dress with a crystal-embellished collar and matching sparkling cuffs. Polished and pretty for church, brunch and events.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Dress Length": "Above Knee",
+        "Fit": "A-Line",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "white-crystal-trim-a-line-dress",
+      "name": "White Crystal Trim A-Line Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white A-line dress with fine crystal trim down the front and along the neckline, finished with a small brooch. Elegant and understated for church and special days.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "Round Neck",
+        "Dress Length": "Knee Length",
+        "Fit": "A-Line",
+        "Occasion": "Church",
+        "Style": "Elegant"
+      }
+    },
+    {
+      "key": "pink-patchwork-sequin-tie-waist-shirt",
+      "name": "Pink Patchwork Sequin Tie-Waist Shirt",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "Pink",
+      "description": "A pink patchwork print shirt with touches of sequin sparkle, a classic collar and a tie at the waist. Bright, fun and easy to pair with jeans or white trousers.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Casual",
+        "Style": "Bohemian"
+      }
+    },
+    {
+      "key": "yellow-floral-eyelet-jeweled-collar-blouse",
+      "name": "Yellow Floral Eyelet Jewelled Collar Blouse",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "Yellow",
+      "description": "A soft yellow floral eyelet blouse with a jewelled collar, a button front and flared elbow sleeves. Feminine and fresh for brunch and outings.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Elbow Sleeve",
+        "Sleeve Style": "Flutter Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Brunch",
+        "Style": "Romantic"
+      }
+    },
+    {
+      "key": "white-pearl-embellished-tulle-hem-vest",
+      "name": "White Pearl Embellished Tulle Hem Vest",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "White",
+      "description": "A white V-neck vest with pearl and bead embroidery across the front and a fluffy tulle trim at the hem. Wear it as a top or layer it over a dress for a dressy finish.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "V-Neck",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "red-asymmetric-gold-ring-ruched-top",
+      "name": "Red Asymmetric Gold Ring Ruched Top",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "Red",
+      "description": "A red asymmetric top with a gold ring at the shoulder, a draped neckline and ruching down the side. Sleek and flattering for dinners and nights out.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "One Shoulder",
+        "Occasion": "Date Night",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "royal-blue-high-waist-leggings",
+      "name": "Royal Blue High-Waist Leggings",
+      "category": "Women's Clothing > Leggings",
+      "price": "200.00",
+      "colour": "Royal Blue",
+      "description": "Royal blue high-waist leggings with a smooth, stretchy fit and a wide waistband that stays put. Great for workouts, errands and everyday wear.",
+      "details": {
+        "Pattern": "Solid",
+        "Waist Rise": "High Rise",
+        "Stretch": "High Stretch",
+        "Occasion": "Sportswear",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "black-high-waist-leggings",
+      "name": "Black High-Waist Leggings",
+      "category": "Women's Clothing > Leggings",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "Classic black high-waist leggings with a smooth, stretchy fit and a wide waistband. An everyday essential for workouts, errands and layering.",
+      "details": {
+        "Pattern": "Solid",
+        "Waist Rise": "High Rise",
+        "Stretch": "High Stretch",
+        "Occasion": "Sportswear",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "black-polka-dot-gold-button-knit-skater-dress",
+      "name": "Black Polka Dot Gold Button Knit Skater Dress",
+      "category": "Women's Clothing > Dresses",
+      "price": "200.00",
+      "colour": "Black",
+      "description": "A black and white polka dot knit dress with a square neckline, gold button front and a flared skater skirt. Playful and polished for outings and events.",
+      "details": {
+        "Pattern": "Polka Dot",
+        "Sleeve Length": "Sleeveless",
+        "Neckline": "Square Neck",
+        "Dress Length": "Above Knee",
+        "Fit": "A-Line",
+        "Material": "Knit",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "green-floral-patchwork-tie-front-shirt",
+      "name": "Green Floral Patchwork Tie-Front Shirt",
+      "category": "Women's Clothing > Tops & Blouses",
+      "price": "200.00",
+      "colour": "Green",
+      "description": "A green and blue floral patchwork shirt with a classic collar and a knotted tie front. Light and summery for weekends and holidays.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Casual",
+        "Style": "Bohemian"
+      }
+    }
+  ]
+}
