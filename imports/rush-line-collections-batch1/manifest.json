@@ -1,0 +1,954 @@
+{
+  "store_slug": "rush-line-collections",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "black-leather-chelsea-boots",
+      "name": "Black Leather Chelsea Boots",
+      "category": "Shoes > Boots",
+      "price": "650.00",
+      "colour": "Black",
+      "description": "Smooth black leather Chelsea boots with stretch side panels, a pull tab and a stacked heel. Easy to slip on and sharp with suits, chinos or jeans.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Elastic",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual",
+        "Ankle Height": "Ankle Boot"
+      },
+      "sizes": []
+    },
+    {
+      "key": "blue-suede-chelsea-boots",
+      "name": "Blue Suede Chelsea Boots",
+      "category": "Shoes > Boots",
+      "price": "650.00",
+      "colour": "Cobalt",
+      "description": "Bold cobalt-blue suede Chelsea boots with elastic side panels, a red sole stripe and a chunky rubber grip sole. A statement boot for smart-casual looks.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Elastic",
+        "Toe Shape": "Round Toe",
+        "Material": "Suede",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Ankle Height": "Ankle Boot",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "43"
+      ]
+    },
+    {
+      "key": "tan-gold-bit-tassel-loafers",
+      "name": "Tan Leather Gold Bit Tassel Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "450.00",
+      "colour": "Tan",
+      "description": "Hand-finished tan leather loafers with dark piping, a gold horsebit and tassel detail. Comes boxed with a dust bag and shoehorn. Perfect for weddings, church and events.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Wedding",
+        "Style": "Elegant",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ]
+    },
+    {
+      "key": "black-teal-patent-high-top-sneakers",
+      "name": "Black & Teal Patent High-Top Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black high-top sneakers with a glossy patent leather wrap, mesh upper, teal accents and a translucent icy sole. A classic streetwear statement.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Patent Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Streetwear",
+        "Ankle Height": "High Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "dark-brown-navy-panel-sneakers",
+      "name": "Dark Brown & Navy Panel Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "Dark brown low-top sneakers with a navy mesh side panel, contrast stitching and a cream cupsole. Smart enough for the office, relaxed enough for weekends.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "brown-pebbled-leather-brogue-sneakers",
+      "name": "Brown Pebbled Leather Brogue Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "Brown pebbled leather sneakers with brogue punch detailing and a clean white cupsole. A smart-casual sneaker that dresses up or down.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "olive-suede-low-top-sneakers",
+      "name": "Olive Suede Low-Top Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Olive",
+      "description": "Soft olive suede sneakers with cream laces, a cream heel tab and a light, grippy sole. Comfortable everyday wear.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Suede",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Casual",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-croc-heel-lace-up-oxfords",
+      "name": "Black Leather Oxfords with Croc-Embossed Heel",
+      "category": "Shoes > Formal Shoes",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Polished black leather oxfords with a croc-embossed heel panel and side lacing. Boxed with dust bag and shoehorn. Made for suits and special occasions.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "41"
+      ]
+    },
+    {
+      "key": "tan-leather-boat-shoes",
+      "name": "Tan Boat Shoes",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Classic tan boat shoes with leather-look upper, threaded side laces, striped lining and a white sole. Easy weekend and holiday wear.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Preppy",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-croc-cap-toe-oxfords",
+      "name": "Black Croc-Embossed Cap-Toe Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Black",
+      "description": "Black leather cap-toe oxfords with a croc-embossed vamp and burgundy-edged sole. Boxed with dust bag and shoehorn. A sharp shoe for weddings and the office.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "43"
+      ]
+    },
+    {
+      "key": "brown-croc-embossed-derby-shoes",
+      "name": "Brown Croc-Embossed Derby Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Brown",
+      "description": "Rich brown croc-embossed leather derbies with a burnished toe, ribbon laces and a blue-accented sole. Bold and polished.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Pointed Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "43"
+      ]
+    },
+    {
+      "key": "brown-croc-horsebit-mules",
+      "name": "Brown Croc-Embossed Horsebit Mules",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "650.00",
+      "colour": "Brown",
+      "description": "Backless brown croc-embossed leather mules with a gold horsebit, cushioned yellow footbed and a ridged chunky sole. Slip-on luxury for any day.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Casual",
+        "Style": "Quiet Luxury",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "41"
+      ]
+    },
+    {
+      "key": "brown-monk-strap-red-sole-shoes",
+      "name": "Brown Leather Monk Strap Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Brown",
+      "description": "Burnished brown leather single monk straps with a gold buckle, burgundy lining and a striking red sole. A standout formal shoe.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Buckle",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "40"
+      ]
+    },
+    {
+      "key": "black-wingtip-brogues",
+      "name": "Black Leather Wingtip Brogues",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black wingtip brogues with textured leather panels, broguing and a stacked wood-look heel. A timeless office shoe.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "cognac-low-top-sneakers",
+      "name": "Cognac Low-Top Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Caramel",
+      "description": "Cognac low-top sneakers with a grey suede heel tab, metal lace tip and a chunky white sole. Clean and versatile.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "brown-leather-court-sneakers",
+      "name": "Brown Leather Court Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "Minimal brown leather court sneakers with tonal laces and a cream cupsole. Goes with everything.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Minimalist",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "navy-leather-slip-on-shoes",
+      "name": "Navy Leather Slip-On Shoes",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "Navy leather slip-ons with elastic gussets, a tan welt stripe and a light black sole. Smart, comfortable and easy to wear all day.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "teal-pool-slides",
+      "name": "Teal Pool Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "300.00",
+      "colour": "Teal",
+      "description": "Soft, cushioned teal slides with a ribbed footbed and grippy sole. Great for home, the pool and quick errands.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Sporty",
+        "Sole Material": "EVA"
+      },
+      "sizes": [
+        "44.5"
+      ]
+    },
+    {
+      "key": "black-woven-leather-loafers",
+      "name": "Black Woven Leather Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Black leather loafers with woven leather side panels and a smooth apron toe. Boxed with dust bag and shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "44"
+      ]
+    },
+    {
+      "key": "dark-brown-cap-toe-brogue-oxfords",
+      "name": "Dark Brown Cap-Toe Brogue Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Chocolate",
+      "description": "Dark brown leather cap-toe oxfords with brogue detailing and a hand-burnished finish. A classic for suits.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Classic",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": []
+    },
+    {
+      "key": "tan-leather-derby-shoes",
+      "name": "Tan Leather Derby Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Plain tan leather derbies with dark laces and a sleek black sole. An easy everyday office shoe.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-penny-loafers-gold-emblem",
+      "name": "Black Penny Loafers with Gold Emblem",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Glossy black leather penny loafers with a gold emblem on the strap and a natural leather sole. Boxed and ready for events.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "42"
+      ]
+    },
+    {
+      "key": "tan-perforated-leather-derby-shoes",
+      "name": "Tan Perforated Leather Derby Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Tan leather derbies with a perforated toe, contrast stitching, navy laces and a light white sole. Smart-casual comfort.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-leather-sneakers-patent-heel",
+      "name": "Black Leather Sneakers with Patent Heel",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "All-black leather sneakers with a glossy patent heel tab and tan lining. Sleek and easy to style.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Minimalist",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "olive-tan-knit-runners",
+      "name": "Olive & Tan Knit Runners",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "colour": "Olive",
+      "description": "Lightweight olive knit runners with tan overlays and a cushioned white sole. Comfortable for long days out.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Mesh",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Athleisure",
+        "Ankle Height": "Low Top",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-brown-lug-sole-boat-shoes",
+      "name": "Black & Brown Lug-Sole Boat Shoes",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Two-tone black and brown boat shoes with moc-toe stitching and a chunky lug sole. A modern take on a classic.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Colour Block",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-perforated-whole-cut-oxfords",
+      "name": "Black Perforated Whole-Cut Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Black",
+      "description": "Black whole-cut leather oxfords with a swirl of perforations and an orange-lined interior. Refined and striking.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-ribbed-apron-slip-on-loafers",
+      "name": "Black Ribbed Apron Slip-On Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Polished black leather slip-ons with a ribbed apron detail and elastic gussets. Boxed with dust bag and shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "key": "burgundy-leather-wingtip-brogues",
+      "name": "Burgundy Leather Wingtip Brogues",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Burgundy",
+      "description": "Burgundy leather wingtip brogues with a striped wedge sole. A bold smart-casual shoe.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-croc-monk-strap-blue-sole",
+      "name": "Black Croc Monk Strap Shoes with Blue Sole",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Black",
+      "description": "Black leather monk straps with croc-embossed strap and heel, a gold buckle and a striking blue sole. Boxed.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Buckle",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Formal",
+        "Style": "Quiet Luxury",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "42"
+      ]
+    },
+    {
+      "key": "beige-woven-tassel-loafers",
+      "name": "Beige Woven Tassel Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Beige",
+      "description": "Beige suede-look loafers with a woven vamp and tassel detail. Light, comfortable and summery.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Suede",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "brown-silver-bit-loafers",
+      "name": "Brown Silver Bit Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "Brown loafers with a silver horsebit and a sturdy black sole. Smart for work and church.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "45"
+      ]
+    },
+    {
+      "key": "tan-leather-derby-shoes-navy-heel",
+      "name": "Tan Leather Derby Shoes with Navy Heel",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Tan leather derbies with a navy heel panel, wide fit and a crepe-look sole. New with tags.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "43"
+      ]
+    },
+    {
+      "key": "black-perforated-slip-on-loafers",
+      "name": "Black Perforated Slip-On Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Soft black leather slip-ons covered in decorative perforations. Breathable and comfortable. Boxed.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "key": "black-gold-bit-loafers",
+      "name": "Black Gold Bit Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Black leather loafers with a gold and black bit detail. Boxed with dust bag and shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "43",
+        "44",
+        "45",
+        "46"
+      ]
+    },
+    {
+      "key": "dark-brown-croc-cap-toe-oxfords",
+      "name": "Dark Brown Croc Cap-Toe Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Chocolate",
+      "description": "Dark brown cap-toe oxfords with a croc-embossed vamp and a burgundy leather sole. Boxed with shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Animal Print",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "45"
+      ]
+    },
+    {
+      "key": "dark-brown-perforated-whole-cut-oxfords",
+      "name": "Dark Brown Perforated Whole-Cut Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Chocolate",
+      "description": "Dark brown whole-cut oxfords with swirl perforations and a crested sole. Boxed.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "44"
+      ]
+    },
+    {
+      "key": "black-tassel-perforated-loafers",
+      "name": "Black Tassel Perforated Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "550.00",
+      "colour": "Black",
+      "description": "Black leather loafers with fine perforations, a gold plaque and leather tassels. Boxed with dust bag and shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "key": "dark-brown-floral-etched-oxfords",
+      "name": "Dark Brown Floral-Etched Whole-Cut Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "650.00",
+      "colour": "Chocolate",
+      "description": "Dark brown whole-cut oxfords with tonal floral etching along the side and a burgundy leather sole. Boxed.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Floral",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "44"
+      ]
+    },
+    {
+      "key": "brown-etched-whole-cut-oxfords",
+      "name": "Brown Etched Whole-Cut Oxfords",
+      "category": "Shoes > Formal Shoes",
+      "price": "550.00",
+      "colour": "Brown",
+      "description": "Two-tone brown whole-cut oxfords with a swirling etched design. Boxed with shoehorn.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Pointed Toe",
+        "Material": "Leather",
+        "Pattern": "Abstract",
+        "Occasion": "Formal",
+        "Style": "Elegant",
+        "Sole Material": "Leather Sole"
+      },
+      "sizes": [
+        "42"
+      ]
+    },
+    {
+      "key": "black-chunky-bit-loafers",
+      "name": "Black Chunky Bit Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "650.00",
+      "colour": "Black",
+      "description": "Glossy black leather loafers with a silver bit and a chunky lug sole. A modern statement loafer.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Sole Material": "Rubber"
+      },
+      "sizes": [
+        "41"
+      ]
+    },
+    {
+      "key": "tan-wingtip-brogue-sneaker-sole",
+      "name": "Tan Wingtip Brogues with Sneaker Sole",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Tan leather wingtip brogues on a light white sneaker sole, with navy laces. Dressy look, sneaker comfort.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "grey-penny-loafers-white-sole",
+      "name": "Grey Penny Loafers with White Sole",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "Grey penny loafers on a chunky white sole. A casual loafer for everyday wear.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "brown-leather-derby-shoes",
+      "name": "Brown Leather Derby Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Brown",
+      "description": "Brown leather derbies with a clean plain toe and slim black sole. New with tags. An everyday office essential.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "black-leather-derby-shoes",
+      "name": "Black Leather Derby Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black leather derbies with a plain toe and slim sole. A must-have for work and church.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Pattern": "Solid",
+        "Occasion": "Work/Office",
+        "Style": "Classic",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    },
+    {
+      "key": "tan-woven-tassel-loafers",
+      "name": "Tan Woven Tassel Loafers",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "colour": "Tan",
+      "description": "Tan loafers with a woven texture vamp, tassel detail and cream sole. Smart-casual and comfortable.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Synthetic Leather",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Smart Casual",
+        "Sole Material": "Rubber"
+      },
+      "sizes": []
+    }
+  ]
+}
