@@ -1,0 +1,945 @@
+{
+  "store_slug": "amalgamationgodeye-ventures",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "royal-blue-safari-shirt-trouser-set",
+      "name": "Royal Blue Safari Shirt & Trouser Set",
+      "category": "Traditional & African Wear > Senator Wear",
+      "price": "250.00",
+      "description": "A royal blue two-piece safari set: a short-sleeve shirt with flap chest pockets and gold buttons, with matching straight trousers. Sharp for church, events and Fridays.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Church",
+        "Style": "Classic"
+      },
+      "colour": "Royal Blue"
+    },
+    {
+      "key": "black-semi-brogue-oxford-shoes",
+      "name": "Black Semi-Brogue Oxford Shoes",
+      "category": "Shoes > Formal Shoes",
+      "price": "250.00",
+      "description": "Polished black leather semi-brogue oxfords with a punched cap toe. A timeless formal shoe for suits, weddings and the office.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Almond Toe",
+        "Material": "Leather",
+        "Occasion": "Formal",
+        "Style": "Classic"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "black-woven-leather-tassel-mules",
+      "name": "Black Woven Leather Tassel Mules",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "description": "Backless black mules in woven leather with a tassel and gold-tipped detail. Easy to slip on, smart enough for evenings out.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Material": "Leather",
+        "Occasion": "Casual",
+        "Style": "Quiet Luxury"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "black-crystal-buckle-mules",
+      "name": "Black Crystal Buckle Mules",
+      "category": "Shoes > Loafers & Moccasins",
+      "price": "250.00",
+      "description": "Sparkling black mules with a gold buckle and a soft pink lining. A statement slip-on for parties and nights out.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Round Toe",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "navy-gold-marble-print-cuban-shirt",
+      "name": "Navy & Gold Marble Print Cuban Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A navy short-sleeve Cuban collar shirt with a gold marble print. Pair it with navy trousers for a complete look.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Cuban Collar",
+        "Occasion": "Party",
+        "Style": "Smart Casual"
+      },
+      "colour": "Navy"
+    },
+    {
+      "key": "white-marble-panel-yellow-stripe-shirt",
+      "name": "White Marble Panel Shirt with Yellow Stripes",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A crisp white short-sleeve shirt with a marble print panel and yellow stripe trims. Fresh and eye-catching.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "ombre-embossed-denim-jacket",
+      "name": "Ombre Embossed Denim Jacket",
+      "category": "Men's Clothing > Jackets & Coats",
+      "price": "250.00",
+      "description": "A denim jacket that fades from mid-blue to light wash, with an embossed pattern and button front. A standout layer.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Ombre",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Denim Blue"
+    },
+    {
+      "key": "high-waist-patchwork-wide-leg-jeans",
+      "name": "High-Waist Patchwork Wide-Leg Jeans",
+      "category": "Women's Clothing > Jeans",
+      "price": "250.00",
+      "description": "High-waisted dark-wash wide-leg jeans with a patchwork panel design and raw hems. Long, flattering and on trend.",
+      "details": {
+        "Material": "Denim",
+        "Waist Rise": "High Rise",
+        "Leg Style": "Wide Leg",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      },
+      "colour": "Denim Blue"
+    },
+    {
+      "key": "black-red-padded-platform-slides",
+      "name": "Black & Red Padded Platform Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "Chunky black padded slides with a bright red footbed and a thick platform sole. Comfortable and bold.",
+      "details": {
+        "Gender": "Unisex",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "black-leather-h-strap-sandals",
+      "name": "Black Leather H-Strap Sandals",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "Black leather slides with a cut-out H strap and a cushioned footbed. Clean, classy and easy to wear.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Material": "Leather",
+        "Occasion": "Casual",
+        "Style": "Quiet Luxury"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "skeleton-print-oversized-knit-sweater",
+      "name": "Skeleton Print Oversized Knit Sweater",
+      "category": "Men's Clothing > Sweaters & Hoodies",
+      "price": "250.00",
+      "description": "An oversized knit sweater with a skeleton print across the front and sleeves. Comes in black or cream.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Material": "Knit",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black"
+          ]
+        },
+        {
+          "colour": "Cream",
+          "views": [
+            "cream"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "camo-graphic-long-sleeve-tee",
+      "name": "Camo Graphic Long-Sleeve Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A camo long-sleeve tee with a graphic badge on the front and a bold arched print on the back.",
+      "details": {
+        "Pattern": "Camouflage",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Army Green"
+    },
+    {
+      "key": "black-duck-graphic-oversized-tee",
+      "name": "Black Duck Graphic Oversized Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "An oversized black tee with a big, colourful cartoon duck graphic. Fun and bold.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "light-wash-embroidered-denim-jacket-jeans-set",
+      "name": "Light Wash Embroidered Denim Jacket & Jeans Set",
+      "category": "Men's Clothing > Jackets & Coats",
+      "price": "250.00",
+      "description": "A light-wash denim jacket and matching jeans with embroidered detailing. The full double-denim look.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Denim Blue"
+    },
+    {
+      "key": "vintage-wash-baggy-denim-jorts",
+      "name": "Vintage Wash Baggy Denim Jorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "description": "Baggy long denim shorts in a faded vintage wash. Relaxed streetwear fit.",
+      "details": {
+        "Material": "Denim",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Denim Blue"
+    },
+    {
+      "key": "cream-dog-applique-contrast-collar-shirt",
+      "name": "Cream Dog Appliqué Shirt with Contrast Collar",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A cream short-sleeve shirt with a brown contrast collar and a playful dog appliqué. Smart and quirky.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      },
+      "colour": "Cream"
+    },
+    {
+      "key": "white-racing-colour-block-polo",
+      "name": "White Racing Colour-Block Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A white racing polo with red and navy colour-block sleeves and bold chest lettering.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "white-navy-crest-polo",
+      "name": "White & Navy Crest Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A white polo with a gold crest, navy collar and navy back panel. Preppy and smart.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Preppy"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "white-navy-number-1-polo",
+      "name": "White & Navy Number 1 Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A white polo with navy sleeves, a red-tipped collar, gold crest and a number 1 badge.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Preppy"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "black-white-beach-polo-team-polo",
+      "name": "Black & White Team Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A black polo with a white chest band, grey sleeve and crest details. Sporty and sharp.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "red-racing-colour-block-polo",
+      "name": "Red Racing Colour-Block Polo",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A red racing polo with navy and white colour-block sleeves and chest lettering.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      },
+      "colour": "Red"
+    },
+    {
+      "key": "white-gb-racing-polo-navy-sleeves",
+      "name": "White Racing Polo with Navy Sleeves",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A white racing polo with navy sleeves and collar and bold chest lettering.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "camo-cargo-shorts-dark-olive",
+      "name": "Dark Olive Camo Cargo Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "description": "Dark olive camo cargo shorts with roomy side pockets. Tough, comfortable and easy to wear.",
+      "details": {
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Olive"
+    },
+    {
+      "key": "camo-cargo-shorts-light-green",
+      "name": "Light Green Camo Cargo Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "description": "Light green camo cargo shorts with side pockets. A fresh summer take on camo.",
+      "details": {
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Sage"
+    },
+    {
+      "key": "camo-ripstop-cargo-pants-grey-blue",
+      "name": "Grey-Blue Camo Ripstop Cargo Pants",
+      "category": "Men's Clothing > Trousers & Chinos",
+      "price": "250.00",
+      "description": "Grey-blue camo cargo pants in tough ripstop fabric with multiple pockets.",
+      "details": {
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Grey"
+    },
+    {
+      "key": "white-croc-effect-h-cutout-slides",
+      "name": "White Croc-Effect H Cut-Out Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "White croc-effect slides with an H cut-out strap. Clean and classy summer wear.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Occasion": "Casual",
+        "Style": "Quiet Luxury"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "white-leather-h-cutout-slides-black-trim",
+      "name": "White Leather H Cut-Out Slides with Black Trim",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "White leather H cut-out slides with black edge trim. Simple and stylish.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Material": "Leather",
+        "Occasion": "Casual",
+        "Style": "Quiet Luxury"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "white-mandarin-collar-clasp-shirt",
+      "name": "White Mandarin Collar Clasp Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A white short-sleeve shirt with a mandarin collar, black clasp fastenings and an embroidered chest badge.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Mandarin / Band Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      },
+      "colour": "White"
+    },
+    {
+      "key": "red-clasp-front-shirt",
+      "name": "Red Clasp-Front Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A bold red short-sleeve shirt with clasp fastenings and an embroidered chest badge.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      },
+      "colour": "Red"
+    },
+    {
+      "key": "red-white-stripe-long-sleeve-tee",
+      "name": "Red & White Stripe Long-Sleeve Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "description": "A red and white striped long-sleeve tee with a small chest logo. An easy everyday staple.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      },
+      "colour": "Red"
+    },
+    {
+      "key": "black-denim-wide-leg-bermuda-jeans",
+      "name": "Black Denim Wide-Leg Bermuda Jeans",
+      "category": "Women's Clothing > Jeans",
+      "price": "250.00",
+      "description": "High-waisted black denim Bermuda jeans with a wide knee-length leg. A trendy, relaxed look.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "logo-print-leather-belts",
+      "name": "Logo Print Webbing Belts",
+      "category": "Fashion Accessories > Belts",
+      "price": "250.00",
+      "description": "Logo print webbing belts with a metal buckle. Choose camo green, white, black or red.",
+      "details": {
+        "Gender": "Unisex",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colours": [
+        {
+          "colour": "Army Green",
+          "views": []
+        },
+        {
+          "colour": "White",
+          "views": []
+        },
+        {
+          "colour": "Black",
+          "views": []
+        },
+        {
+          "colour": "Red",
+          "views": []
+        }
+      ]
+    },
+    {
+      "key": "double-breasted-blazer-midi-dress-set",
+      "name": "Double-Breasted Blazer & Midi Dress Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "250.00",
+      "description": "A fitted double-breasted blazer with gold buttons and a matching midi pencil dress. Polished for work, church and events. In black, navy, plum or red.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Long Sleeve",
+        "Dress Length": "Midi",
+        "Occasion": "Work/Office",
+        "Style": "Elegant"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black"
+          ]
+        },
+        {
+          "colour": "Navy",
+          "views": [
+            "navy"
+          ]
+        },
+        {
+          "colour": "Plum",
+          "views": [
+            "plum"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "red"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "retro-high-top-basketball-sneakers",
+      "name": "Retro High-Top Basketball Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "description": "Retro basketball sneakers with mesh side panels and a cushioned sole. Choose black, black/red, black/white or white/red.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Ankle Height": "Mid Top",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "black-red"
+          ]
+        },
+        {
+          "colour": "Grey",
+          "views": [
+            "black-white"
+          ]
+        },
+        {
+          "colour": "White",
+          "views": [
+            "white-red"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "monogram-low-top-sneakers",
+      "name": "Monogram Low-Top Sneakers",
+      "category": "Shoes > Sneakers",
+      "price": "250.00",
+      "description": "Low-top sneakers with a monogram print upper and a clean white sole. In black, green or red.",
+      "details": {
+        "Gender": "Unisex",
+        "Closure Type": "Lace-Up",
+        "Toe Shape": "Round Toe",
+        "Ankle Height": "Low Top",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black",
+            "black-2"
+          ]
+        },
+        {
+          "colour": "Green",
+          "views": [
+            "green"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "red"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "geometric-camo-strap-slides",
+      "name": "Geometric Camo Strap Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "Black slides with a geometric camo strap and a comfy moulded footbed. Four colourways.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colours": [
+        {
+          "colour": "Multicolor",
+          "views": [
+            "black-red"
+          ]
+        },
+        {
+          "colour": "Grey",
+          "views": [
+            "grey"
+          ]
+        },
+        {
+          "colour": "Olive",
+          "views": [
+            "olive"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "red"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "shield-logo-chevron-slides",
+      "name": "Shield Logo Chevron Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "Sporty slides with a chevron strap and shield logo on a black footbed. In black, blue, grey or red.",
+      "details": {
+        "Gender": "Men",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black"
+          ]
+        },
+        {
+          "colour": "Royal Blue",
+          "views": [
+            "blue"
+          ]
+        },
+        {
+          "colour": "Grey",
+          "views": [
+            "grey"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "red"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "studded-croc-effect-platform-slides",
+      "name": "Studded Croc-Effect Platform Slides",
+      "category": "Shoes > Sandals & Slides",
+      "price": "250.00",
+      "description": "Croc-effect platform slides with a studded black strap and a thick sole. In beige, black, red or yellow.",
+      "details": {
+        "Gender": "Unisex",
+        "Closure Type": "Slip-On",
+        "Toe Shape": "Open Toe",
+        "Pattern": "Animal Print",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      },
+      "colours": [
+        {
+          "colour": "Beige",
+          "views": [
+            "beige"
+          ]
+        },
+        {
+          "colour": "Black",
+          "views": [
+            "black"
+          ]
+        },
+        {
+          "colour": "Red",
+          "views": [
+            "red"
+          ]
+        },
+        {
+          "colour": "Yellow",
+          "views": [
+            "yellow"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "camo-ripstop-cargo-pants-green",
+      "name": "Green Camo Ripstop Cargo Pants",
+      "category": "Men's Clothing > Trousers & Chinos",
+      "price": "250.00",
+      "description": "Green camo cargo pants in ripstop fabric with plenty of pockets. Built for everyday wear.",
+      "details": {
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Army Green"
+    },
+    {
+      "key": "denim-kimono-shirt-dress-kente-stripe-panel",
+      "name": "Denim Kimono Shirt Dress with Kente Stripe Panel",
+      "category": "Women's Clothing > Dresses",
+      "price": "250.00",
+      "description": "An oversized denim shirt dress with kimono sleeves, a button front and a colourful kente-style stripe panel at the front and back.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Striped",
+        "Sleeve Length": "Short Sleeve",
+        "Neckline": "V-Neck",
+        "Dress Length": "Knee Length",
+        "Fit": "Oversized",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      },
+      "colour": "Denim Blue"
+    },
+    {
+      "key": "black-red-lightning-embroidered-denim-set",
+      "name": "Black & Red Lightning Embroidered Denim Set",
+      "category": "Men's Clothing > Jackets & Coats",
+      "price": "250.00",
+      "description": "A black denim jacket and matching wide jeans with red lightning embroidery and red-washed details. A full streetwear fit.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      },
+      "colour": "Black"
+    },
+    {
+      "key": "striped-shirt-belted-shorts-set",
+      "name": "Striped Shirt & Belted Shorts Set",
+      "category": "Women's Clothing > Co-ord Sets",
+      "price": "250.00",
+      "description": "A striped button-up shirt with high-waisted belted shorts. Comes in baby blue, brown, magenta or olive.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Long Sleeve",
+        "Occasion": "Brunch",
+        "Style": "Trendy"
+      },
+      "colours": [
+        {
+          "colour": "Baby Blue",
+          "views": [
+            "blue"
+          ]
+        },
+        {
+          "colour": "Brown",
+          "views": [
+            "brown"
+          ]
+        },
+        {
+          "colour": "Magenta",
+          "views": [
+            "magenta"
+          ]
+        },
+        {
+          "colour": "Olive",
+          "views": [
+            "olive"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "drawstring-wide-leg-palazzo-pants",
+      "name": "Drawstring Wide-Leg Palazzo Pants",
+      "category": "Women's Clothing > Trousers & Pants",
+      "price": "250.00",
+      "description": "Flowy high-waist palazzo pants with a drawstring waist and wide legs. Light and comfortable, in seven colours.",
+      "details": {
+        "Pattern": "Solid",
+        "Leg Style": "Wide Leg",
+        "Waist Rise": "High Rise",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      },
+      "colours": [
+        {
+          "colour": "Black",
+          "views": [
+            "black-model",
+            "black-flat"
+          ]
+        },
+        {
+          "colour": "Brown",
+          "views": [
+            "brown-model",
+            "brown-flat"
+          ]
+        },
+        {
+          "colour": "Burgundy",
+          "views": [
+            "burgundy-model",
+            "burgundy-flat"
+          ]
+        },
+        {
+          "colour": "Hot Pink",
+          "views": [
+            "hot-pink-model",
+            "hot-pink-flat"
+          ]
+        },
+        {
+          "colour": "Mustard",
+          "views": [
+            "mustard-model",
+            "mustard-flat"
+          ]
+        },
+        {
+          "colour": "Olive",
+          "views": [
+            "olive-model",
+            "olive-flat"
+          ]
+        },
+        {
+          "colour": "White",
+          "views": [
+            "white-model",
+            "white-flat"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "green-gold-piped-shirt-trouser-set",
+      "name": "Green Gold-Piped Shirt & Trouser Set",
+      "category": "Traditional & African Wear > Senator Wear",
+      "price": "250.00",
+      "description": "A deep green two-piece with gold piping across the shirt and matching tailored trousers.",
+      "details": {
+        "Pattern": "Solid",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Church",
+        "Style": "Classic"
+      },
+      "colour": "Bottle Green"
+    },
+    {
+      "key": "lilac-adinkra-embroidered-shirt-burgundy-trouser-set",
+      "name": "Lilac Adinkra Embroidered Shirt & Burgundy Trouser Set",
+      "category": "Traditional & African Wear > Adinkra Print Clothing",
+      "price": "250.00",
+      "description": "A lilac short-sleeve shirt with embroidered adinkra symbols, paired with burgundy trousers. Proudly Ghanaian.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Church",
+        "Style": "Afrocentric"
+      },
+      "colour": "Lilac"
+    },
+    {
+      "key": "cobalt-brushstroke-tee-jogger-set",
+      "name": "Cobalt Brushstroke Tee & Jogger Set",
+      "category": "Men's Clothing > Activewear",
+      "price": "250.00",
+      "description": "A cobalt blue tee and joggers with white brushstroke prints. A matching set for easy days.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Athleisure"
+      },
+      "colour": "Cobalt"
+    },
+    {
+      "key": "cream-rooster-camp-shirt-rust-trouser-set",
+      "name": "Cream Rooster Camp Shirt & Rust Trouser Set",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "description": "A cream camp-collar shirt with a rust collar and rooster embroidery, with matching rust trousers.",
+      "details": {
+        "Pattern": "Embroidered",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Cuban Collar",
+        "Occasion": "Party",
+        "Style": "Smart Casual"
+      },
+      "colour": "Cream"
+    }
+  ]
+}
