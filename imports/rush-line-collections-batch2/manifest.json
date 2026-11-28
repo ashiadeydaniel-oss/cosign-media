@@ -1,0 +1,335 @@
+{
+  "store_slug": "rush-line-collections",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "olive-ne-graphic-sleeveless-tee",
+      "name": "Olive Graphic Sleeveless Tee",
+      "category": "Men's Clothing > Vests & Tank Tops",
+      "price": "250.00",
+      "colour": "Olive",
+      "description": "A relaxed olive sleeveless tee with bold outlined lettering front and back and a contrast stitched trim. Made for hot days and gym-to-street style.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Sleeveless",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "white-elephant-cap-graphic-tee",
+      "name": "White Elephant Graphic Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A soft white crew-neck tee with a playful elephant-in-a-cap graphic. Fun, eye-catching and easy to wear every day.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "dark-green-ribbed-knit-sweater-vest",
+      "name": "Dark Green Ribbed Knit Sweater Vest",
+      "category": "Men's Clothing > Sweaters & Hoodies",
+      "price": "250.00",
+      "colour": "Forest Green",
+      "description": "A dark green ribbed knit sweater vest with a small embroidered emblem. Layer it over a shirt for a smart preppy look, or wear it on its own.",
+      "details": {
+        "Pattern": "Solid",
+        "Material": "Knit",
+        "Sleeve Length": "Sleeveless",
+        "Occasion": "Work/Office",
+        "Style": "Preppy"
+      }
+    },
+    {
+      "key": "white-parrot-print-short-sleeve-shirt",
+      "name": "White Parrot Print Short-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A crisp white short-sleeve shirt with a vivid watercolour parrot down one side and gold collar tips. A bright statement for outings and vacations.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Button-Down Collar",
+        "Occasion": "Brunch",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "black-white-ombre-stripe-long-sleeve-shirt",
+      "name": "Black & White Ombre Stripe Long-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A long-sleeve shirt with black and white stripes that fade from bold to fine, a white collar and a small chest emblem. Sharp for evenings out.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "white-rhinestone-tiger-long-sleeve-shirt",
+      "name": "White Rhinestone Tiger Long-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white long-sleeve shirt with a large rhinestone tiger face across the front. Clean from the back, bold from the front.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "white-peacock-floral-print-shirt",
+      "name": "White Peacock Floral Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white short-sleeve shirt covered in a rich peacock and floral print in blue, gold and red. Made to stand out at parties and events.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "batik-patchwork-print-shirt",
+      "name": "Batik Patchwork Print Short-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A short-sleeve shirt in a patchwork of earthy batik-style prints with a blue panel at the hem. Relaxed, cultural and full of character.",
+      "details": {
+        "Pattern": "Batik Print",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Casual",
+        "Style": "Afrocentric"
+      }
+    },
+    {
+      "key": "black-white-geometric-block-shirt",
+      "name": "Black & White Geometric Block Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A short-sleeve shirt with a bold black and white geometric block pattern. Graphic, sharp and easy to style with black trousers.",
+      "details": {
+        "Pattern": "Geometric",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "half-print-pink-medallion-long-sleeve-shirt",
+      "name": "Half-Print Pink Medallion Long-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A long-sleeve shirt split down the middle: plain white on one side, pink and purple medallion print on the other. A bold, modern statement.",
+      "details": {
+        "Pattern": "Colour Block",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "skull-guitar-art-print-shirt",
+      "name": "Skull & Guitar Art Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A short-sleeve shirt with a dramatic skull and guitar art print in smoky navy, orange and cream. Edgy and unforgettable.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Edgy"
+      }
+    },
+    {
+      "key": "black-dragon-graphic-oversized-tee",
+      "name": "Black Dragon Graphic Oversized Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "An oversized black tee with a bold dragon and moon graphic and vintage-style lettering. Heavy streetwear energy.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "white-shirt-geometric-print-sleeves",
+      "name": "White Shirt with Geometric Print Sleeves",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white short-sleeve shirt with soft geometric print sleeves, a matching collar and placket trim. Clean with a little detail.",
+      "details": {
+        "Pattern": "Geometric",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Brunch",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "blue-ink-landscape-print-shirt",
+      "name": "Blue Ink Landscape Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Blue",
+      "description": "A short-sleeve shirt printed with a blue ink-painting landscape of mountains, trees and boats. Artistic and fresh for holidays and outings.",
+      "details": {
+        "Pattern": "Abstract",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Vacation",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "green-white-stripe-monogram-shirt",
+      "name": "Green & White Stripe Monogram Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Green",
+      "description": "A green short-sleeve shirt with white striped sleeves and panels and a bold white monogram print across the chest.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "dark-green-bottle-outline-tee",
+      "name": "Dark Green Bottle Outline Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Forest Green",
+      "description": "A dark green crew-neck tee with a simple white bottle outline on the front. Minimal and easy to wear.",
+      "details": {
+        "Pattern": "Graphic Print",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "burgundy-big-cat-print-shirt",
+      "name": "Burgundy Big Cat Print Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Burgundy",
+      "description": "A burgundy camp-collar shirt with black tiger, leopard and big-cat prints all over. Bold and confident.",
+      "details": {
+        "Pattern": "Animal Print",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Cuban Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "mustard-multicolour-polka-dot-shirt",
+      "name": "Mustard Multicolour Polka Dot Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Mustard",
+      "description": "A mustard long-sleeve shirt with colourful polka dots in black, blue, green and pink. Playful and full of colour.",
+      "details": {
+        "Pattern": "Polka Dot",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Party",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "beige-black-grid-camp-collar-shirt",
+      "name": "Beige & Black Grid Camp-Collar Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Beige",
+      "description": "A beige camp-collar shirt with a black grid pattern and textured squares. Relaxed but smart.",
+      "details": {
+        "Pattern": "Plaid/Check",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Cuban Collar",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "white-motion-club-graphic-tee",
+      "name": "White Motion Club Graphic Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white oversized tee with colourful cut-out letter graphics on the front. Fun streetwear for everyday wear.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "beige-flower-print-short-sleeve-shirt",
+      "name": "Beige Flower Print Short-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Beige",
+      "description": "A beige short-sleeve shirt with a neat black flower print. Easy to pair with jeans or chinos.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Short Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Casual",
+        "Style": "Smart Casual"
+      }
+    },
+    {
+      "key": "navy-white-palm-leaf-long-sleeve-shirt",
+      "name": "Navy & White Palm Leaf Long-Sleeve Shirt",
+      "category": "Men's Clothing > Casual Shirts",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy long-sleeve shirt with sweeping white palm-leaf prints. Striking for holidays, beach evenings and parties.",
+      "details": {
+        "Pattern": "Floral",
+        "Sleeve Length": "Long Sleeve",
+        "Collar Type": "Classic Collar",
+        "Occasion": "Vacation",
+        "Style": "Trendy"
+      }
+    }
+  ]
+}
