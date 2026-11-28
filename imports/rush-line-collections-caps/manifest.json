@@ -1,0 +1,412 @@
+{
+  "store_slug": "rush-line-collections",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "cap-white-black-g3-mesh-trucker-cap",
+      "name": "White & Black Mesh Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A white and black trucker cap with a breathable mesh back and an adjustable snap strap. Clean graphic front panel for an easy sporty look.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Colour Block",
+        "Occasion": "Casual",
+        "Style": "Streetwear",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-olive-camo-brim-badge-trucker-cap",
+      "name": "Olive Camo-Brim Badge Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Olive",
+      "description": "An olive trucker cap with a breathable mesh back and an adjustable snap strap, finished with a round badge patch and a camo-print brim. Rugged outdoor style.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Streetwear",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-red-black-laser-mesh-trucker-cap",
+      "name": "Red & Black Mesh Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Red",
+      "description": "A bright red trucker cap with a breathable mesh back and an adjustable snap strap with bold white front lettering. Bold colour, sporty fit.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-green-camo-party-animal-cap",
+      "name": "Green Camo Party Animal Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Green",
+      "description": "A light green cap with a camo-print brim and a fun 'Party Animal' print. A playful retro piece.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Camouflage",
+        "Occasion": "Casual",
+        "Style": "Retro"
+      }
+    },
+    {
+      "key": "cap-black-pokeball-character-brim-snapback",
+      "name": "Black Snapback with Character Print Brim",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black flat-brim snapback with a round red-and-white badge and an all-over cartoon print under the brim. A fun collector's piece.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "cap-burgundy-bass-fish-patch-trucker-cap",
+      "name": "Burgundy Fish Patch Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Burgundy",
+      "description": "A burgundy trucker cap with a breathable mesh back and an adjustable snap strap with a classic fish logo patch on the front. Laid-back outdoor style.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Retro",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-maui-surfboard-print-trucker-cap",
+      "name": "Surfboard Print Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A colourful surfboard-print trucker cap with a breathable mesh back and an adjustable snap strap with a black brim. Bright holiday vibes.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-black-airo-patch-trucker-cap",
+      "name": "Black Logo Patch Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black trucker cap with a breathable mesh back and an adjustable snap strap with a clean rectangular logo patch. Simple and goes with everything.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Minimalist",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-grey-purple-cr-logo-snapback",
+      "name": "Grey & Purple Logo Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey flat-brim snapback with a purple brim and a raised purple letter logo. Sporty and sharp.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Colour Block",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-navy-denver-embroidered-fitted-cap",
+      "name": "Navy Denver Embroidered Fitted Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy flat-brim cap with bold 'Denver' embroidery in white and orange. A classic sports look.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-grey-ou-sooners-embroidered-cap",
+      "name": "Grey Embroidered Sports Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey cap with red embroidered letter logo and side patches and contrast stitching. A vintage sports feel.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-black-skull-crest-embroidered-cap",
+      "name": "Black Skull Crest Embroidered Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black cap with a small embroidered skull crest on the front. Understated with an edge.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Edgy"
+      }
+    },
+    {
+      "key": "cap-grey-neon-green-new-york-snapback",
+      "name": "Grey & Neon Green New York Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "A grey flat-brim snapback with bold neon-green 'New York' lettering and a matching neon brim. Loud and proud.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "cap-black-neon-green-blitz-cap",
+      "name": "Black Neon Green Blitz Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black cap with spiky neon-green front lettering. A bold streetwear statement.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "cap-navy-surfer-patch-cap",
+      "name": "Navy Surfer Patch Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy cap with a round red surfer patch on the front. Easy, everyday and beach-ready.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      }
+    },
+    {
+      "key": "cap-navy-yellow-lightning-bolt-cap",
+      "name": "Navy Yellow Lightning Bolt Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy cap with an embroidered yellow lightning bolt and matching yellow eyelets. Simple and striking.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-navy-white-pride-patch-trucker-cap",
+      "name": "Navy & White Rainbow Patch Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "A navy and white trucker cap with a breathable mesh back and an adjustable snap strap, with a colourful rainbow lettering patch on the front.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Trendy",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-black-lime-orlando-florida-snapback",
+      "name": "Black & Lime Orlando Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black flat-brim snapback with bold lime 'Orlando' lettering and a lime brim. Vacation-ready.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "cap-comic-print-venom-face-snapback",
+      "name": "Comic Print Character Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Multicolor",
+      "description": "A flat-brim snapback covered in a bold, colourful comic-style character print with a black brim. A real head-turner.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "cap-black-all-out-mayhem-perforated-cap",
+      "name": "Black All Out Mayhem Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black cap with 'All Out Mayhem' lettering in white and orange. Sporty and bold.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-gold-pyramid-stud-snapback",
+      "name": "Gold Studded Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Gold",
+      "description": "A flat-brim snapback covered in shiny gold pyramid studs. Made for parties, shows and standing out.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Glamorous"
+      }
+    },
+    {
+      "key": "cap-black-ypo-tonal-print-trucker-cap",
+      "name": "Black Tonal Print Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "An all-black trucker cap with a breathable mesh back and an adjustable snap strap, with tonal grey lettering on the front. Subtle and sleek.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Minimalist",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-heather-green-mountain-s-trucker-cap",
+      "name": "Heather Green Mountain Logo Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Green",
+      "description": "A heather green trucker cap with a breathable mesh back and an adjustable snap strap, with a white mesh back and a bold green letter logo.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Sporty",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-red-hawk-head-embroidered-fitted-cap",
+      "name": "Red Hawk Head Embroidered Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Red",
+      "description": "A bright red flat-brim cap with an embroidered black and white hawk head. A clean sports look.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Embroidered",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-black-orange-independent-trucker-cap",
+      "name": "Black & Orange Trucker Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black trucker cap with a breathable mesh back and an adjustable snap strap, with an orange skate-style logo on the front.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear",
+        "Material": "Mesh"
+      }
+    },
+    {
+      "key": "cap-maroon-devil-mascot-flat-brim-cap",
+      "name": "Maroon Mascot Flat-Brim Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Maroon",
+      "description": "A maroon flat-brim cap with a white mascot graphic on the front. Bold team-style flair.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Graphic Print",
+        "Occasion": "Casual",
+        "Style": "Sporty"
+      }
+    },
+    {
+      "key": "cap-white-pique-heart-logo-cap",
+      "name": "White Piqué Heart Logo Cap",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "White",
+      "description": "A clean white piqué cap with a small blue heart logo on the side. Minimal and fresh.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Solid",
+        "Occasion": "Casual",
+        "Style": "Minimalist"
+      }
+    },
+    {
+      "key": "cap-black-red-global-domination-snapback",
+      "name": "Black & Red Global Domination Snapback",
+      "category": "Fashion Accessories > Hats & Caps",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "A black flat-brim snapback with bold red 'Global Domination' lettering. Confident streetwear.",
+      "details": {
+        "Gender": "Unisex",
+        "Pattern": "Letter Print",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    }
+  ]
+}
