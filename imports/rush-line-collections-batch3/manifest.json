@@ -1,0 +1,276 @@
+{
+  "store_slug": "rush-line-collections",
+  "defaults": {
+    "sizes": [],
+    "stock": 2,
+    "condition": "new"
+  },
+  "products": [
+    {
+      "key": "purple-sun-faded-sleeveless-logo-tee",
+      "name": "Purple Sun-Faded Sleeveless Logo Tee",
+      "category": "Men's Clothing > Vests & Tank Tops",
+      "price": "250.00",
+      "colour": "Purple",
+      "description": "A purple sleeveless tee with a sun-faded olive wash at the seams and a black graphic logo on the chest. Raw, washed and full of streetwear attitude.",
+      "details": {
+        "Pattern": "Ombre",
+        "Sleeve Length": "Sleeveless",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "rust-black-colour-block-stripe-tee",
+      "name": "Rust & Black Colour-Block Stripe Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Rust",
+      "description": "A crew-neck tee with rust, white and brown chest stripes over a black body and a small chest badge. A clean everyday classic.",
+      "details": {
+        "Pattern": "Striped",
+        "Sleeve Length": "Short Sleeve",
+        "Fit": "Regular Fit",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      }
+    },
+    {
+      "key": "pink-summer-popsicle-graphic-tee",
+      "name": "Pink Summer Graphic Tee",
+      "category": "Men's Clothing > T-Shirts & Polos",
+      "price": "250.00",
+      "colour": "Pink",
+      "description": "A soft pink tee with bold 'SUMMER' lettering and a fun popsicle graphic. Light, relaxed and made for sunny days.",
+      "details": {
+        "Pattern": "Letter Print",
+        "Sleeve Length": "Short Sleeve",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "black-faded-distressed-drawstring-denim-shorts",
+      "name": "Black Faded Distressed Drawstring Denim Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black denim shorts with faded panels, distressed patches, raw hems and an elastic drawstring waist. Comfortable with a rugged look.",
+      "details": {
+        "Material": "Denim",
+        "Waist Rise": "Mid Rise",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "black-zip-pocket-cargo-joggers",
+      "name": "Black Zip-Pocket Cargo Joggers",
+      "category": "Men's Clothing > Trousers & Chinos",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black cargo joggers with a drawstring waist, zip-detail cargo pockets and cuffed ankles. Built for comfort and everyday style.",
+      "details": {
+        "Leg Style": "Jogger",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "vintage-wash-studded-letter-baggy-jeans",
+      "name": "Vintage Wash Studded Letter Baggy Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Baggy jeans in a heavy vintage wash with studded lettering across the thighs and distressed rips. A bold streetwear statement.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Baggy",
+        "Fit": "Loose Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "dark-wash-spiderweb-embroidered-denim-shorts",
+      "name": "Dark Wash Spiderweb Embroidered Denim Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Dark wash knee-length denim shorts with spiderweb stitching on the front legs. A standout detail on a classic short.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Embroidered",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "dark-tinted-wash-denim-jorts",
+      "name": "Dark Tinted Wash Denim Jorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Baggy knee-length jorts in a dark tinted wash with faded whiskering. The go-to summer denim.",
+      "details": {
+        "Material": "Denim",
+        "Fit": "Loose Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "ripped-vintage-wash-straight-jeans-amiri-print",
+      "name": "Ripped Vintage Wash Straight Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Straight-leg jeans in a tinted vintage wash with ripped knees, worn-in details and printed lettering at the hem.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Straight",
+        "Fit": "Straight Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "tinted-vintage-wash-slim-tapered-jeans",
+      "name": "Tinted Vintage Wash Slim Tapered Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Slim tapered jeans in a tinted vintage wash with subtle fading. Easy to wear with sneakers or boots.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Tapered",
+        "Fit": "Slim Fit",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      }
+    },
+    {
+      "key": "dark-blue-whiskered-denim-shorts",
+      "name": "Dark Blue Whiskered Denim Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Dark blue denim shorts with bright whiskered fading at the front and back. A classic summer short.",
+      "details": {
+        "Material": "Denim",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      }
+    },
+    {
+      "key": "dark-tinted-wash-knee-length-denim-shorts",
+      "name": "Dark Tinted Wash Knee-Length Denim Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Knee-length denim shorts in a dark tinted wash with faded thighs. Relaxed and easy.",
+      "details": {
+        "Material": "Denim",
+        "Fit": "Loose Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "grey-acid-wash-drawstring-denim-shorts",
+      "name": "Grey Acid Wash Drawstring Denim Shorts",
+      "category": "Men's Clothing > Shorts",
+      "price": "250.00",
+      "colour": "Grey",
+      "description": "Grey acid-wash denim shorts with a drawstring waist, cargo-style pocket tabs and raw distressed hems.",
+      "details": {
+        "Material": "Denim",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "black-faded-number-patch-drawstring-jeans",
+      "name": "Black Faded Number Patch Drawstring Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Black",
+      "description": "Black faded jeans with a drawstring waist and bold number and letter patches down the legs. Streetwear with comfort.",
+      "details": {
+        "Material": "Denim",
+        "Pattern": "Letter Print",
+        "Leg Style": "Straight",
+        "Fit": "Relaxed Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "mid-wash-cut-out-baggy-jeans",
+      "name": "Mid Wash Cut-Out Baggy Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Baggy mid-wash jeans with cut-out knee details and faded thighs. A bold, relaxed silhouette.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Baggy",
+        "Fit": "Loose Fit",
+        "Occasion": "Casual",
+        "Style": "Streetwear"
+      }
+    },
+    {
+      "key": "green-tint-button-fly-tapered-jeans",
+      "name": "Green Tint Button-Fly Tapered Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Denim Blue",
+      "description": "Tapered jeans with a green-tinted vintage wash, button fly and light distressing. A rugged everyday pair.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Tapered",
+        "Fit": "Regular Fit",
+        "Occasion": "Casual",
+        "Style": "Vintage"
+      }
+    },
+    {
+      "key": "royal-blue-slim-tapered-jeans",
+      "name": "Royal Blue Slim Tapered Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Royal Blue",
+      "description": "Bright royal blue slim tapered jeans. A bold colour pop for any outfit.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Tapered",
+        "Fit": "Slim Fit",
+        "Occasion": "Casual",
+        "Style": "Trendy"
+      }
+    },
+    {
+      "key": "dark-wash-ripped-slim-tapered-jeans",
+      "name": "Dark Wash Ripped Slim Tapered Jeans",
+      "category": "Men's Clothing > Jeans",
+      "price": "250.00",
+      "colour": "Navy",
+      "description": "Dark wash slim tapered jeans with light rips and scuffing. Smart enough to dress up, rugged enough for every day.",
+      "details": {
+        "Material": "Denim",
+        "Leg Style": "Tapered",
+        "Fit": "Slim Fit",
+        "Occasion": "Casual",
+        "Style": "Casual"
+      }
+    }
+  ]
+}
